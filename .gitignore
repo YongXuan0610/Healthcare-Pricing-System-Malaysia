@@ -1,0 +1,84 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage/
+
+# Node / frontend
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+playwright-report/
+test-results/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.temp
+*.partial.csv
+
+# NSS 80 source data: download from the official catalog when retraining
+Backend/datasets/nss80/raw/
+Backend/datasets/nss80/processed/
+Backend/datasets/nss80/documentation/*.pdf
+
+# Historical / experimental NSS model artifacts
+Backend/models/nss80/archive/
+Backend/models/nss80/baseline_v1_*/
+Backend/models/nss80/compact_25_intervals.joblib
+Backend/models/nss80/full_data_user_input_comparison/
+Backend/models/nss80/practical_15_input_experiment/
+Backend/models/nss80/practical_15_intervals.joblib
+Backend/models/nss80/production_backup_*/
+Backend/models/nss80/retraining_v3*/
+Backend/models/nss80/safe_improvement_v4/
+Backend/models/nss80/simplified_user_input_experiment/
+Backend/models/nss80/practical_15_prediction_range/*
+!Backend/models/nss80/practical_15_prediction_range/practical_15_interval_80.joblib
+
+# Generated NSS reports and row-level research outputs
+Backend/reports/nss80/processed/
+Backend/reports/nss80/experiments_v2/
+Backend/reports/nss80/full_data_user_input_comparison/
+Backend/reports/nss80/retraining_v3*/
+Backend/reports/nss80/safe_improvement_v4/
+Backend/reports/nss80/simplified_user_input_experiment/
+Backend/reports/nss80/compact_25_promotion/
+Backend/reports/nss80/practical_15_promotion/*_ids.csv
+Backend/reports/nss80/practical_15_prediction_range/test_interval_predictions.csv
+
+# Legacy backups and generated archives
+Backend/archive/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.bak
+*~

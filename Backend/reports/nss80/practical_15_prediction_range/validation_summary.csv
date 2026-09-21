@@ -1,0 +1,3 @@
+interval,raw_selection_validation_coverage,quantile_crossing_rate
+80%,0.8823574318650279,0.0
+90%,0.94037712802504,0.0

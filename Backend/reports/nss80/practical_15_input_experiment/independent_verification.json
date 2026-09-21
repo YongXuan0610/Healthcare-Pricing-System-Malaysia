@@ -1,0 +1,28 @@
+{
+  "all_checks_passed": true,
+  "independent_unweighted_metrics": {
+    "mae": 19614.1828531067,
+    "rmse": 57639.143726165756,
+    "r2": 0.39769617865686857,
+    "median_absolute_error": 5436.29534237078,
+    "rmsle": 3.3737125327591118
+  },
+  "independent_weighted_metrics": {
+    "mae": 19234.659190777445,
+    "rmse": 54551.476937742045,
+    "r2": 0.3965834705573833,
+    "median_absolute_error": 5441.861449583681,
+    "rmsle": 3.4384770303999366
+  },
+  "full_locked_test_reload_predictions_match_within_csv_roundtrip_tolerance": true,
+  "full_locked_test_reload_csv_max_absolute_difference_inr": 5.820766091346741e-11,
+  "prediction_count": 23277,
+  "all_predictions_finite_and_nonnegative": true,
+  "exact_ordered_15_features_preserved": true,
+  "known_leakage_count": 0,
+  "outer_train_test_person_overlap": 0,
+  "selection_validation_person_overlap": 0,
+  "protected_files_unchanged_and_rehashed": true,
+  "protected_file_count": 7886,
+  "model_sha256": "86cfc650a2a8ddfde94d64f8b4f123b34aa6dbc99052d99fe821265f00644695"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "model": "Previous v4 production",
+    "inputs": 37,
+    "input_reduction_vs_37_percent": 0.0,
+    "r2": 0.4232307848779787,
+    "mae": 19105.79598311671,
+    "rmse": 56404.10951089011,
+    "median_absolute_error": 5170.2976007293455,
+    "rmsle": 3.22002408062969
+  },
+  {
+    "model": "Compact model",
+    "inputs": 25,
+    "input_reduction_vs_37_percent": 32.432432432432435,
+    "mae": 19087.165620838143,
+    "rmse": 56605.08310221816,
+    "r2": 0.4191132873872677,
+    "median_absolute_error": 5241.764715409216,
+    "rmsle": 3.340442260935036
+  },
+  {
+    "model": "New practical model",
+    "inputs": 15,
+    "input_reduction_vs_37_percent": 59.45945945945946,
+    "mae": 19614.1828531067,
+    "rmse": 57639.143726165756,
+    "r2": 0.39769617865686857,
+    "median_absolute_error": 5436.29534237078,
+    "rmsle": 3.3737125327591118
+  }
+]

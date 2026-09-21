@@ -1,0 +1,17 @@
+{
+  "age_years": 39,
+  "gender": "Female",
+  "chronic_ailment": "No",
+  "pregnant": "No",
+  "communicable_disease": "Not suffered",
+  "other_ailment_last_15_days": "No",
+  "number_of_hospitalisations": 1,
+  "length_of_stay_days": 10,
+  "ailment_nature": "Difficulty or abnormality in urination",
+  "hospitalisation_treatment_nature": "Allopathy",
+  "medical_institution_type": "Government or public hospital",
+  "ward_type": "Free ward",
+  "place_of_hospitalisation": "Same district, urban area",
+  "surgery": "Not received",
+  "medicine": "Received"
+}

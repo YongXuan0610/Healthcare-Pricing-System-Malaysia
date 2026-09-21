@@ -1,0 +1,48 @@
+{
+  "population_episodes": 116788,
+  "population_people": 106068,
+  "partitions": {
+    "outer_train": {
+      "episodes": 93511,
+      "people": 84854
+    },
+    "outer_test": {
+      "episodes": 23277,
+      "people": 21214
+    },
+    "selection_train": {
+      "episodes": 74617,
+      "people": 67883
+    },
+    "validation": {
+      "episodes": 18894,
+      "people": 16971
+    }
+  },
+  "id_sources": {
+    "outer_train": {
+      "path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\reports\\nss80\\full_data_user_input_comparison\\outer_train_record_ids.csv",
+      "sha256": "e68d67ef36c91498635723ea024410b1c05b9a3fbae248aeaac8575869b62a7c"
+    },
+    "outer_test": {
+      "path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\reports\\nss80\\full_data_user_input_comparison\\outer_test_record_ids.csv",
+      "sha256": "d5187cfcc25bda1a049235ed8f713b963129ac62c3ab69f01eb040d84457ef29"
+    },
+    "selection_train": {
+      "path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\reports\\nss80\\full_data_user_input_comparison\\selection_train_record_ids.csv",
+      "sha256": "dd4c62e496104ef7c0b911068ab162c0e0471fd2df3eb023db1862788b8d9b7e"
+    },
+    "validation": {
+      "path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\reports\\nss80\\full_data_user_input_comparison\\validation_record_ids.csv",
+      "sha256": "cb957aa05a2e6c4b75f56c827477314ed87d53afad5c9b664e09c8c6cbc8aaa0"
+    }
+  },
+  "outer_train_test_person_overlap": 0,
+  "selection_validation_person_overlap": 0,
+  "selection_test_person_overlap": 0,
+  "validation_test_person_overlap": 0,
+  "saved_id_order_preserved": true,
+  "inner_split_seed_from_authoritative_experiment": 43,
+  "model_seed": 42,
+  "final_fit_policy": "Freeze the grouped-validation stopping iteration, then refit on all 93,511 outer-training episodes with early_stopping=False."
+}

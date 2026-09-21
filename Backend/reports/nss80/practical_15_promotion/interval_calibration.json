@@ -1,0 +1,55 @@
+{
+  "method": "Separate 5th/95th quantile HGB bounds; nonnegative CQR score; maximum score per calibration person; finite-sample 90% person-coverage quantile.",
+  "seeds": [
+    152,
+    153
+  ],
+  "nominal_coverage": 0.9,
+  "calibration_unit": "person (maximum across episodes)",
+  "calibration_statistic_inr": 0.0,
+  "calibration_rank": 11457,
+  "calibration_people": 12728,
+  "partitions": {
+    "interval_fit": {
+      "episodes": 65406,
+      "people": 59397
+    },
+    "calibration": {
+      "episodes": 14120,
+      "people": 12728
+    },
+    "coverage_audit": {
+      "episodes": 13985,
+      "people": 12729
+    },
+    "locked_test": {
+      "episodes": 23277,
+      "people": 21214
+    }
+  },
+  "all_relevant_person_overlaps": 0,
+  "locked_test_used_for_calibration_or_coverage": false,
+  "base_empirical_audit_episode_coverage": 0.9347157668930998,
+  "base_empirical_audit_person_simultaneous_coverage": 0.9322020582920889,
+  "displayed_expanded_audit_episode_coverage": 0.9348587772613515,
+  "coverage_interpretation": "Nominal marginal coverage across exchangeable people, not an individual guarantee. Bound fitting, calibration, coverage audit, and locked test people are disjoint. The locked test is not used. The frozen point estimator is not retrained. Display bounds may only widen to include the point prediction.",
+  "point_estimator_retrained": false,
+  "point_sha256": "86cfc650a2a8ddfde94d64f8b4f123b34aa6dbc99052d99fe821265f00644695",
+  "compact_25_calibration_reused": false,
+  "interval_hyperparameters": {
+    "loss": "quantile",
+    "early_stopping": false,
+    "validation_fraction": 0.1,
+    "n_iter_no_change": 25,
+    "random_state": 42,
+    "learning_rate": 0.04,
+    "max_iter": 111,
+    "max_leaf_nodes": 127,
+    "max_depth": 12,
+    "min_samples_leaf": 35,
+    "l2_regularization": 15.0
+  },
+  "early_stopping_used": false,
+  "artifact": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\models\\nss80\\practical_15_intervals.joblib",
+  "artifact_sha256": "caf9fa0418d6f20715bfa0dd9167b76d11122f96bb485eedb91a2670c778e784"
+}

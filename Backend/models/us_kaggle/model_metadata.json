@@ -1,0 +1,409 @@
+{
+  "component": "us_kaggle_secondary_benchmark",
+  "research_role": "secondary_benchmark",
+  "model_name": "Tuned Gradient Boosting",
+  "final_model": {
+    "name": "Tuned Gradient Boosting",
+    "training_metrics": {
+      "mae": 2288.2936978527837,
+      "rmse": 4085.2418749056837,
+      "r2": 0.8741041699475294
+    },
+    "test_metrics": {
+      "mae": 2472.024065317961,
+      "rmse": 4248.985829209828,
+      "r2": 0.9017508310757683
+    },
+    "cross_validation": {
+      "cv_mae_mean": 2514.2945948988286,
+      "cv_mae_std": 178.16577226641488,
+      "cv_rmse_mean": 4386.561367907649,
+      "cv_rmse_std": 602.1544438600654,
+      "cv_r2_mean": 0.852712134975502,
+      "cv_r2_std": 0.025363865802817236
+    }
+  },
+  "selected_features": [
+    "age",
+    "sex",
+    "bmi",
+    "children",
+    "smoker",
+    "region"
+  ],
+  "numeric_features": [
+    "age",
+    "bmi",
+    "children"
+  ],
+  "categorical_features": [
+    "sex",
+    "smoker",
+    "region"
+  ],
+  "target": "charges",
+  "source_target_column": "charges_usd",
+  "output_currency": "USD (source dataset context; not MYR)",
+  "dataset": {
+    "filename": "Insurance_Dataset_US_Medical_Charges_1338.csv",
+    "path": "datasets/us_kaggle/raw/Insurance_Dataset_US_Medical_Charges_1338.csv",
+    "raw_rows": 1338,
+    "modeling_rows": 1337,
+    "sha256": "ca62a83898d62ead2ae3b0299215e752dee1ad829a08d003408ef522dbffb1af",
+    "duplicate_observations_excluded": 1
+  },
+  "split": {
+    "training_rows": 1069,
+    "development_rows": 855,
+    "calibration_rows": 214,
+    "testing_rows": 268,
+    "test_size": 0.2,
+    "calibration_fraction_of_training": 0.2
+  },
+  "random_state": 42,
+  "cross_validation_folds": 5,
+  "training_date_utc": "2026-08-12T12:26:25.364207+00:00",
+  "best_hyperparameters": {
+    "subsample": 0.7,
+    "n_estimators": 200,
+    "min_samples_split": 15,
+    "min_samples_leaf": 4,
+    "max_depth": 3,
+    "learning_rate": 0.02
+  },
+  "hyperparameter_tuning": {
+    "Tuned Random Forest": {
+      "best_parameters": {
+        "n_estimators": 350,
+        "min_samples_split": 5,
+        "min_samples_leaf": 1,
+        "max_features": 0.7,
+        "max_depth": 5
+      },
+      "best_cv_rmse": 4416.999561901561,
+      "search_method": "RandomizedSearchCV",
+      "iterations": 24,
+      "folds": 5,
+      "selection_metric": "RMSE"
+    },
+    "Tuned Gradient Boosting": {
+      "best_parameters": {
+        "subsample": 0.7,
+        "n_estimators": 200,
+        "min_samples_split": 15,
+        "min_samples_leaf": 4,
+        "max_depth": 3,
+        "learning_rate": 0.02
+      },
+      "best_cv_rmse": 4386.561367907649,
+      "search_method": "RandomizedSearchCV",
+      "iterations": 24,
+      "folds": 5,
+      "selection_metric": "RMSE"
+    }
+  },
+  "model_comparison": [
+    {
+      "model": "Tuned Gradient Boosting",
+      "train_mae": 2288.2936978527837,
+      "train_rmse": 4085.2418749056837,
+      "train_r2": 0.8741041699475294,
+      "test_mae": 2472.024065317961,
+      "test_rmse": 4248.985829209828,
+      "test_r2": 0.9017508310757683,
+      "cv_mae_mean": 2514.2945948988286,
+      "cv_mae_std": 178.16577226641488,
+      "cv_rmse_mean": 4386.561367907649,
+      "cv_rmse_std": 602.1544438600654,
+      "cv_r2_mean": 0.852712134975502,
+      "cv_r2_std": 0.025363865802817236
+    },
+    {
+      "model": "Tuned Random Forest",
+      "train_mae": 2187.5405900211044,
+      "train_rmse": 3938.238323934206,
+      "train_r2": 0.8830016373684917,
+      "test_mae": 2461.7823450081914,
+      "test_rmse": 4302.562051288704,
+      "test_r2": 0.8992575276261402,
+      "cv_mae_mean": 2520.63407029681,
+      "cv_mae_std": 175.28014224867655,
+      "cv_rmse_mean": 4416.999561901561,
+      "cv_rmse_std": 596.7444789152644,
+      "cv_r2_mean": 0.8505500750736786,
+      "cv_r2_std": 0.025906715415001422
+    },
+    {
+      "model": "Gradient Boosting",
+      "train_mae": 1903.0571809075723,
+      "train_rmse": 3513.939173222203,
+      "train_r2": 0.906853986010804,
+      "test_mae": 2472.5321858242264,
+      "test_rmse": 4375.195160951279,
+      "test_r2": 0.895827477605691,
+      "cv_mae_mean": 2554.665827035825,
+      "cv_mae_std": 182.48350901893136,
+      "cv_rmse_mean": 4513.646381147507,
+      "cv_rmse_std": 600.5070363895405,
+      "cv_r2_mean": 0.8442710791130784,
+      "cv_r2_std": 0.024971286652422552
+    },
+    {
+      "model": "Random Forest",
+      "train_mae": 1007.3679729828463,
+      "train_rmse": 1792.4787820896036,
+      "train_r2": 0.9757627220764044,
+      "test_mae": 2560.421703254603,
+      "test_rmse": 4610.015358704138,
+      "test_r2": 0.8843453590585467,
+      "cv_mae_mean": 2682.0023823725924,
+      "cv_mae_std": 205.08509665009072,
+      "cv_rmse_mean": 4775.1724281754805,
+      "cv_rmse_std": 512.0437318084938,
+      "cv_r2_mean": 0.8257777982906633,
+      "cv_r2_std": 0.018506867428302758
+    },
+    {
+      "model": "Linear Regression",
+      "train_mae": 4090.543245638858,
+      "train_rmse": 5920.986885969469,
+      "train_r2": 0.7355375638977395,
+      "test_mae": 4152.857086749199,
+      "test_rmse": 6000.563234058837,
+      "test_r2": 0.804051314911244,
+      "cv_mae_mean": 4156.916777099624,
+      "cv_mae_std": 442.96976865470106,
+      "cv_rmse_mean": 5982.061816800962,
+      "cv_rmse_std": 643.8922593099437,
+      "cv_r2_mean": 0.7269643101042562,
+      "cv_r2_std": 0.02530741469687697
+    },
+    {
+      "model": "Decision Tree",
+      "train_mae": 0.0,
+      "train_rmse": 0.0,
+      "train_r2": 1.0,
+      "test_mae": 3065.836591608209,
+      "test_rmse": 6457.205473989398,
+      "test_r2": 0.7730931887831853,
+      "cv_mae_mean": 2955.3686689824563,
+      "cv_mae_std": 256.6459978366584,
+      "cv_rmse_mean": 6212.499565876861,
+      "cv_rmse_std": 332.3313219472144,
+      "cv_r2_mean": 0.6986746271027509,
+      "cv_r2_std": 0.058934106058004365
+    },
+    {
+      "model": "Dummy Regressor",
+      "train_mae": 8650.668868119175,
+      "train_rmse": 11513.625577751041,
+      "train_r2": 0.0,
+      "test_mae": 9799.337175986055,
+      "test_rmse": 13631.461547870489,
+      "test_r2": -0.011214214348384433,
+      "cv_mae_mean": 8668.41759919719,
+      "cv_mae_std": 575.8564432860248,
+      "cv_rmse_mean": 11507.499692246634,
+      "cv_rmse_std": 834.668625138273,
+      "cv_r2_mean": -0.01237688414328395,
+      "cv_r2_std": 0.0076369228219701525
+    }
+  ],
+  "feature_importance": [
+    {
+      "feature": "smoker_yes",
+      "importance": 0.6752428414370177
+    },
+    {
+      "feature": "bmi",
+      "importance": 0.17684221848936918
+    },
+    {
+      "feature": "age",
+      "importance": 0.12953432165133966
+    },
+    {
+      "feature": "children",
+      "importance": 0.014425474381457344
+    },
+    {
+      "feature": "region_northwest",
+      "importance": 0.001115139557512868
+    },
+    {
+      "feature": "region_northeast",
+      "importance": 0.0009152018275042544
+    },
+    {
+      "feature": "sex_male",
+      "importance": 0.0007250823332538513
+    },
+    {
+      "feature": "region_southwest",
+      "importance": 0.0007171335584242822
+    },
+    {
+      "feature": "region_southeast",
+      "importance": 0.0004825867641207716
+    }
+  ],
+  "eda": {
+    "numeric_correlations_with_charges": {
+      "age": 0.2983,
+      "bmi": 0.1984,
+      "children": 0.0674
+    },
+    "group_summaries": {
+      "smoker": {
+        "no": {
+          "count": 1063,
+          "mean": 8440.66,
+          "median": 7345.73,
+          "std": 5992.97
+        },
+        "yes": {
+          "count": 274,
+          "mean": 32050.23,
+          "median": 34456.35,
+          "std": 11541.55
+        }
+      },
+      "sex": {
+        "female": {
+          "count": 662,
+          "mean": 12569.58,
+          "median": 9412.96,
+          "std": 11128.7
+        },
+        "male": {
+          "count": 675,
+          "mean": 13975.0,
+          "median": 9377.9,
+          "std": 12971.96
+        }
+      },
+      "children": {
+        "0": {
+          "count": 573,
+          "mean": 12384.7,
+          "median": 9863.47,
+          "std": 12025.42
+        },
+        "1": {
+          "count": 324,
+          "mean": 12731.17,
+          "median": 8483.87,
+          "std": 11823.63
+        },
+        "2": {
+          "count": 240,
+          "mean": 15073.56,
+          "median": 9264.98,
+          "std": 12891.37
+        },
+        "3": {
+          "count": 157,
+          "mean": 15355.32,
+          "median": 10600.55,
+          "std": 12330.87
+        },
+        "4": {
+          "count": 25,
+          "mean": 13850.66,
+          "median": 11033.66,
+          "std": 9139.22
+        },
+        "5": {
+          "count": 18,
+          "mean": 8786.04,
+          "median": 8589.57,
+          "std": 3808.44
+        }
+      },
+      "region": {
+        "northeast": {
+          "count": 324,
+          "mean": 13406.38,
+          "median": 10057.65,
+          "std": 11255.8
+        },
+        "northwest": {
+          "count": 324,
+          "mean": 12450.84,
+          "median": 8976.98,
+          "std": 11073.13
+        },
+        "southeast": {
+          "count": 364,
+          "mean": 14735.41,
+          "median": 9294.13,
+          "std": 13971.1
+        },
+        "southwest": {
+          "count": 325,
+          "mean": 12346.94,
+          "median": 8798.59,
+          "std": 11557.18
+        }
+      }
+    },
+    "charges_skewness": 1.5153909108403483
+  },
+  "prediction_interval": {
+    "method": "smoker-stratified conformalized quantile regression",
+    "nominal_coverage": 0.9,
+    "lower_quantile": 0.04999999999999999,
+    "upper_quantile": 0.95,
+    "calibration_rows": 214,
+    "calibration_group": "smoker",
+    "global_conformal_adjustment": 139.9225577431514,
+    "conformal_adjustment_by_smoker": {
+      "no": -0.5453584966244307,
+      "yes": 1470.0748738886468
+    },
+    "test_coverage": 0.9216417910447762,
+    "test_coverage_by_smoker": {
+      "no": 0.9278846153846154,
+      "yes": 0.9
+    },
+    "test_mean_width": 21170.72343548434,
+    "test_median_width": 17283.692077059197,
+    "interpretation": "Uncertainty range under the source dataset and exchangeability assumptions; not a guarantee or exact quotation."
+  },
+  "error_analysis": {
+    "high_cost_threshold": 17781.10482,
+    "high_cost_mae": 4696.699742957978,
+    "lower_cost_mae": 1730.4655061046221,
+    "largest_error_record_ids": [
+      988,
+      116,
+      544,
+      638,
+      1231,
+      129,
+      820,
+      574,
+      292,
+      1304
+    ]
+  },
+  "overfitting_analysis": "The unconstrained Decision Tree shows clear overfitting: training R\u00b2 is 1.0000 but test R\u00b2 is 0.7731, with test RMSE 6,457.21. The untuned Random Forest also has a train/test gap (R\u00b2 0.9758 vs 0.8843), although averaging reduces the tree's instability. The selected tuned model constrains complexity through its searched parameters; its train/test R\u00b2 values are 0.8741/0.9018, and its CV variation provides a more realistic stability check than training score.",
+  "package_versions": {
+    "python": "3.11.9",
+    "pandas": "3.0.3",
+    "numpy": "2.4.6",
+    "scikit-learn": "1.9.0",
+    "joblib": "1.5.3",
+    "fastapi": "0.139.0",
+    "pydantic": "2.13.4",
+    "xgboost": "not installed; intentionally omitted",
+    "shap": "not installed; optional and not required"
+  },
+  "limitations": [
+    "Secondary benchmark only; not NSS or Malaysian patient-level data.",
+    "Bundle documentation describes the classic source dataset as simulated from US demographic statistics.",
+    "Output is in the source dataset's charge scale and must not be presented as Malaysian Ringgit.",
+    "NSS, LIAM, and Malaysian hospital pricing data are separate sources and were not merged.",
+    "Predictions are estimates, not guaranteed healthcare costs."
+  ]
+}

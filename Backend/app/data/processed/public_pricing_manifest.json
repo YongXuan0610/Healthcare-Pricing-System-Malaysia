@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-08-25T14:22:02.478883+00:00",
+  "combined_output": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\app\\data\\processed\\public_hospital_prices.csv",
+  "records": 1090,
+  "categories": [
+    "Audiology",
+    "Delivery / Maternity",
+    "Dietetics",
+    "Emergency",
+    "Inpatient Treatment",
+    "Laboratory",
+    "Medical Reports",
+    "Nephrology",
+    "Occupational Therapy",
+    "Other Published Charges",
+    "Outpatient",
+    "Physiotherapy",
+    "Procedures",
+    "Radiology / Imaging",
+    "Radiotherapy / Oncology",
+    "Specialist Clinic",
+    "Speech Therapy",
+    "Traditional and Complementary Medicine",
+    "Treatment Charges",
+    "Ward Charges",
+    "Ward Deposit"
+  ],
+  "sources": [
+    {
+      "source_code": "HKL",
+      "records": 15,
+      "categories": [
+        "Ward Charges"
+      ],
+      "duplicates_removed": 0,
+      "skipped_malformed": 58,
+      "output_path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\app\\data\\processed\\hkl_public_charges_normalized.csv",
+      "used_snapshot_fallback": false
+    },
+    {
+      "source_code": "HRC",
+      "records": 30,
+      "categories": [
+        "Audiology",
+        "Occupational Therapy",
+        "Physiotherapy",
+        "Specialist Clinic",
+        "Speech Therapy",
+        "Traditional and Complementary Medicine",
+        "Treatment Charges",
+        "Ward Charges",
+        "Ward Deposit"
+      ],
+      "duplicates_removed": 0,
+      "skipped_malformed": 0,
+      "output_path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\app\\data\\processed\\hrc_public_charges.csv",
+      "used_snapshot_fallback": false
+    },
+    {
+      "source_code": "HCJ",
+      "records": 35,
+      "categories": [
+        "Delivery / Maternity",
+        "Inpatient Treatment",
+        "Specialist Clinic",
+        "Ward Charges"
+      ],
+      "duplicates_removed": 2,
+      "skipped_malformed": 2,
+      "output_path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\app\\data\\processed\\hcj_public_charges.csv",
+      "used_snapshot_fallback": false
+    },
+    {
+      "source_code": "HSB",
+      "records": 61,
+      "categories": [
+        "Delivery / Maternity",
+        "Emergency",
+        "Inpatient Treatment",
+        "Medical Reports",
+        "Other Published Charges",
+        "Specialist Clinic",
+        "Ward Charges",
+        "Ward Deposit"
+      ],
+      "duplicates_removed": 0,
+      "skipped_malformed": 0,
+      "output_path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\app\\data\\processed\\hsb_public_charges.csv",
+      "used_snapshot_fallback": false
+    },
+    {
+      "source_code": "HPSF",
+      "records": 152,
+      "categories": [
+        "Delivery / Maternity",
+        "Inpatient Treatment",
+        "Laboratory",
+        "Other Published Charges",
+        "Outpatient",
+        "Procedures",
+        "Radiology / Imaging",
+        "Specialist Clinic",
+        "Ward Charges",
+        "Ward Deposit"
+      ],
+      "duplicates_removed": 0,
+      "skipped_malformed": 0,
+      "output_path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\app\\data\\processed\\hpsf_public_charges.csv",
+      "used_snapshot_fallback": true
+    },
+    {
+      "source_code": "MOH_WARD",
+      "records": 18,
+      "categories": [
+        "Ward Charges"
+      ],
+      "duplicates_removed": 0,
+      "skipped_malformed": 0,
+      "output_path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\app\\data\\processed\\moh_caj_wad.csv",
+      "used_snapshot_fallback": true
+    },
+    {
+      "source_code": "MOH_TREATMENT",
+      "records": 779,
+      "categories": [
+        "Delivery / Maternity",
+        "Dietetics",
+        "Inpatient Treatment",
+        "Nephrology",
+        "Occupational Therapy",
+        "Physiotherapy",
+        "Radiotherapy / Oncology",
+        "Speech Therapy",
+        "Traditional and Complementary Medicine"
+      ],
+      "duplicates_removed": 7,
+      "skipped_malformed": 0,
+      "output_path": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\app\\data\\processed\\moh_caj_rawatan.csv",
+      "used_snapshot_fallback": true
+    }
+  ]
+}

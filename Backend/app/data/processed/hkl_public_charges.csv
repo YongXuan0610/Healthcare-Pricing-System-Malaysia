@@ -1,0 +1,74 @@
+category,service_name,patient_class,charge_type,price_rm,source_url
+ward charges,One bedded room,all,first class,90.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Two bedded room,all,first class,60.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Three bedded room or more,all,first class,45.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Second Class,all,ward charges - non air conditioned,25.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Third Class,all,ward charges - non air conditioned,3.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,One bedded room,all,third class,120.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Two bedded room,all,third class,90.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Three bedded room or more,all,third class,60.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Second Class,all,ward charges - air conditioned,40.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,One bedded room (VIP),all,third class,225.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,One bedded room,all,third class,180.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Two bedded room,all,third class,150.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,First Class,all,ward charges - air conditioned,15.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Second Class,all,ward charges - air conditioned,10.0,https://hkl.moh.gov.my/en/public/hospital-charges
+ward charges,Second Class,all,ward charges - air conditioned,5.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Psikiatrik,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Fisioterapi,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Radioterapi & Onkologi,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Nefrologi,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Occuterapi,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Occuterapi2,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Linguatherapy,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Dietetik,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Tradisi,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Siasatan Radio,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Ujian,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Siasatan,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Pergigian,all,listed_service,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,First Class,first class,per_admission,1125.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Second Class,second class,per_admission,300.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Third Class,third class,per_admission,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Biofeedback /myofeedback,biofeedback /myofeedback,per_admission,30.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Direct current / iontophorosis,direct current / iontophorosis,per_admission,30.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Didynamic current,didynamic current,per_admission,30.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Mark on set,mark on set,per_admission,45.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Conventional simulation,conventional simulation,per_admission,450.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,CT simulation: Normal (without contrast),ct simulation: normal (without contrast),per_admission,450.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Intermitent peritonial dialysis per treatment,intermitent peritonial dialysis per treatment,per_admission,275.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Continuous Ambulatory Peritoneal Dialysis (CAPD) treatment (monthly),continuous ambulatory peritoneal dialysis (capd) treatment (monthly),per_admission,750.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Canadian Occupational Therapy Performance Measure (C.O.P.M),canadian occupational therapy performance measure (c.o.p.m),per_admission,20.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Tubegrip,tubegrip,per_admission,10.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Coban bandage,coban bandage,per_admission,10.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Finger strap,finger strap,per_admission,0.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Speech-language assessment,speech-language assessment,per_admission,50.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Instrumental assessment of voice,instrumental assessment of voice,per_admission,50.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Nutrition assessment,nutrition assessment,per_admission,10.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Indirect calorimetry,indirect calorimetry,per_admission,20.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Individual diet therapy,individual diet therapy,per_admission,10.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Chronic pain (per session),chronic pain (per session),per_admission,20.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Post stroke (per session),post stroke (per session),per_admission,20.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Wellness postnatal massage (per session),wellness postnatal massage (per session),per_admission,20.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Limbs,limbs,per_admission,75.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Head,head,per_admission,90.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Spine,spine,per_admission,90.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Cellular immunological tests,cellular immunological tests,per_admission,150.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Electron microscopy,electron microscopy,per_admission,120.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Frozen section (inclusive of confirmation),frozen section (inclusive of confirmation),per_admission,120.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Electrocardiography,electrocardiography,per_admission,45.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Exercise tests,exercise tests,per_admission,150.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Holter,holter,per_admission,150.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Topical fluoride (per arch),topical fluoride (per arch),per_admission,15.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Fissure sealant (per tooth),fissure sealant (per tooth),per_admission,15.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Full mouth scaling and polishing,full mouth scaling and polishing,per_admission,110.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,One bedded room,one bedded room,per_admission,320.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Two bedded room,two bedded room,per_admission,240.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Three bedded room or more,three bedded room or more,per_admission,200.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Second Class,second class,per_admission,180.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,Third Class,third class,per_admission,160.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,One bedded room (VIP),one bedded room (vip),per_admission,500.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,One bedded room,one bedded room,per_admission,400.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,17- OXOSTEROIDS,17- oxosteroids,per_admission,30.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,17-OXOGENIC STEROIDS,17-oxogenic steroids,per_admission,30.0,https://hkl.moh.gov.my/en/public/hospital-charges
+common public hospital charges,2HOUR POST PARANDIAL,2hour post parandial,per_admission,20.0,https://hkl.moh.gov.my/en/public/hospital-charges

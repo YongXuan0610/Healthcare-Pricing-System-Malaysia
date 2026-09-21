@@ -1,0 +1,13 @@
+{
+  "recommendation": "PROMOTE 15-INPUT MODEL",
+  "rule_frozen_before_training": true,
+  "overall_error_ratios_15_over_25": {
+    "mae": 1.0276110787079458,
+    "rmse": 1.018267981730197
+  },
+  "high_cost_mae_ratios_15_over_25": {
+    "top10": 1.031354547211972,
+    "top5": 1.0322726335238175,
+    "top1": 1.0394769004786988
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "source": "NSS 80 Schedule 25.0 (January-December 2025)",
+  "source_files": {
+    "hhscsL1.csv": "8d9b21a44da21a4a76daee4d3e25fa4089366c7050571ab35023c58ae5f3959c",
+    "hhscsL2.csv": "6f2e5c77394804032cba6a6a7df46edd2b73573a1d399aead8a1948404028b9e",
+    "hhscsL3.csv": "86bb93aab93996e8698e2377632eca8365bcb0529745d6dc6eb4350154ebf5ab",
+    "hhscsL4.csv": "92776c43c3aa393cc2ce87ed8c603bc42469d05ff3c3b9e7c4a7f1d0ef2170e2",
+    "hhscsL5.csv": "7bd67d0af5b11cdfd38bce1a93820f99afb6d56d5d417f2fdc24d3075e87cd5a",
+    "hhscsL6.csv": "7459a8b3229c78afe4b8570422c8dad7f418c698a44dcffea7f3a3d275d5c361",
+    "hhscsL7.csv": "e67df2b9cdef2133e8a92705232354e03bd28d452cda0ed0b8c0d92e3202bb80"
+  },
+  "source_level_rows": {
+    "hhscsL1": 139732,
+    "hhscsL2": 651732,
+    "hhscsL3": 3936,
+    "hhscsL4": 121584,
+    "hhscsL5": 96277,
+    "hhscsL6": 167051,
+    "hhscsL7": 37557
+  },
+  "raw_l4_hospitalisation_records": 121584,
+  "after_l2_living_person_join": 116853,
+  "l2_unmatched_or_deceased_records_excluded": 4731,
+  "l2_unmatched_member_codes": {
+    "91": 4688,
+    "92": 43
+  },
+  "l2_excluded_records_verified_in_l3_deceased_roster": 4731,
+  "l2_excluded_records_not_verified_as_deceased": 0,
+  "after_l1_household_join_readable_records": 116853,
+  "l1_unmatched_records_excluded": 0,
+  "suno_cross_level_join_policy": "Sample sub-unit number (suno) is retained for reference but excluded from the cross-level entity key. The supplied public-use files contain missing L1/L3 values and three L2/L4 disagreements; all remaining key fields are unique.",
+  "suno_missing_records_by_level": {
+    "L1": 854,
+    "L2": 0,
+    "L3": 20,
+    "L4": 0
+  },
+  "suno_l4_l2_mismatched_living_episode_records": 3,
+  "suno_l4_l1_mismatched_living_episode_records": 726,
+  "suno_l4_l1_mismatched_distinct_households": 613,
+  "readable_duplicate_record_ids": 0,
+  "persons_with_multiple_episodes": 7940,
+  "maximum_episodes_per_person": 24,
+  "gender_counts": {
+    "male": 43067,
+    "female": 73721,
+    "transgender_or_other": 65,
+    "missing_or_invalid": 0
+  },
+  "gender_filtering_rows": [
+    {
+      "gender_category": "Male",
+      "original_record_count": 43067,
+      "included_in_modelling": "Yes",
+      "reason": "Included by the defined Male/Female modelling population."
+    },
+    {
+      "gender_category": "Female",
+      "original_record_count": 73721,
+      "included_in_modelling": "Yes",
+      "reason": "Included by the defined Male/Female modelling population."
+    },
+    {
+      "gender_category": "Transgender",
+      "original_record_count": 65,
+      "included_in_modelling": "No",
+      "reason": "Preserved in readable data but excluded because the model was not defined or validated for this group."
+    },
+    {
+      "gender_category": "Other",
+      "original_record_count": 0,
+      "included_in_modelling": "No",
+      "reason": "Preserved in readable data but excluded because the model was not defined or validated for this group."
+    },
+    {
+      "gender_category": "Missing or invalid",
+      "original_record_count": 0,
+      "included_in_modelling": "No",
+      "reason": "Preserved in readable data but excluded because the model was not defined or validated for this group."
+    }
+  ],
+  "ml_records_after_gender_filter": 116788,
+  "target_missing": 0,
+  "target_negative": 0,
+  "target_zero": 18253,
+  "component_sum_mismatch": 0,
+  "unverified_state_code_99_records": 8,
+  "unresolved_categorical_800x_codes_detected": {},
+  "numeric_800x_values_retained": {
+    "L1.b5i8": 1,
+    "L1.umce": 39,
+    "L1.mult": 6,
+    "L2.mult": 28,
+    "L4.b7i7": 1,
+    "L4.b7i12": 5,
+    "L4.b7i14": 3,
+    "L4.b7i15": 7,
+    "L4.mult": 6,
+    "L5.b9i16": 1,
+    "L5.b9i19": 1,
+    "L5.mult": 8,
+    "L6.mult": 8,
+    "L7.mult": 2
+  },
+  "numeric_800x_policy": "Values in officially defined continuous rupee/day/count fields are retained as measurements. The same patterns in categorical or binary fields are rejected as unresolved codes.",
+  "numeric_9999_policy": "Schedule 25.0 defines monetary entries as whole rupees and does not define 9999 as a missing-value sentinel. An exact monetary value of Rs. 9,999 is therefore retained as numeric rather than guessed to be missing.",
+  "gender_limitation": "The NSS model was trained and evaluated using records coded as Male or Female in the source survey. Other gender-category records were preserved in the source data but excluded from the defined modelling population. Therefore, the model was not validated for excluded gender groups."
+}

@@ -1,0 +1,11 @@
+{
+  "component": "malaysia_liam_pricing_reference",
+  "research_role": "pricing_reference_only",
+  "publisher": "Life Insurance Association of Malaysia (LIAM)",
+  "source_url": "https://www.liam.org.my/library/healthcare/Price-Ranges-Common-Private-Healthcare-Services-Msia_27Jan2026.pdf",
+  "file": {
+    "path": "reference/Medical_Dataset_Malaysia_LIAM_Price_Ranges.csv",
+    "bytes": 184298,
+    "sha256": "17dc1eccd41e17af100ecbf66b86f456b6b774bb38cf69e77e799d55572a7b67"
+  }
+}

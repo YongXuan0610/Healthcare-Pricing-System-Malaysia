@@ -1,0 +1,197 @@
+{
+  "component": "nss80_primary_research_model",
+  "research_role": "primary",
+  "model_version": "nss80_practical_15",
+  "artifact_model_version": "isolated_practical_15_full_data",
+  "trained_at_utc": "2026-09-10T08:30:22.102826+00:00",
+  "promoted_at_utc": "2026-09-10T09:18:20.539134+00:00",
+  "selected_model": "HistGradientBoostingRegressor",
+  "model_family": "hist_gradient_boosting",
+  "architecture": "Global model",
+  "selection_reason": "User-approved practical 15-input promotion: 59.46% fewer inputs than v4 and 40.00% fewer than compact25, with a moderate performance reduction accepted for usability.",
+  "target": "total_medical_expenditure_rs",
+  "target_description": "NSS Schedule 25.0 Block 7 item 12 hospitalisation-related total medical expenditure",
+  "target_unit": "INR per inpatient case",
+  "currency": "INR",
+  "country": "India",
+  "target_transform": "identity",
+  "preprocessing_included_in_artifact": true,
+  "leakage_safe": true,
+  "input_features": [
+    "age_years",
+    "gender",
+    "chronic_ailment",
+    "pregnant",
+    "communicable_disease",
+    "other_ailment_last_15_days",
+    "number_of_hospitalisations",
+    "length_of_stay_days",
+    "ailment_nature",
+    "hospitalisation_treatment_nature",
+    "medical_institution_type",
+    "ward_type",
+    "place_of_hospitalisation",
+    "surgery",
+    "medicine"
+  ],
+  "original_feature_count": 15,
+  "encoded_feature_count": 90,
+  "numeric_feature_count": 3,
+  "binary_feature_count": 7,
+  "nominal_feature_count": 5,
+  "feature_transform": {
+    "gender_mapping": "Female=0; Male=1",
+    "pregnancy_mapping": "Yes=1; No=0; not applicable is a codebook-supported missing value for people outside the female age 15-49 question scope.",
+    "communicable_disease_mapping": "Not suffered=0; any named communicable disease=1",
+    "service_receipt_mapping": "Not received=0; Received=1. Payment labels are rejected.",
+    "payment_status_detail_used": false,
+    "free_medical_service_used": false
+  },
+  "metrics": {
+    "test": {
+      "mae": 19614.1828531067,
+      "rmse": 57639.143726165756,
+      "r2": 0.39769617865686857,
+      "median_absolute_error": 5436.29534237078,
+      "rmsle": 3.3737125327591118
+    },
+    "validation": {
+      "mae": 19851.828624050802,
+      "rmse": 59892.35903126447,
+      "r2": 0.38937469836676475,
+      "median_absolute_error": 5527.967061008035,
+      "rmsle": 3.4108791285619824
+    },
+    "survey_weighted_test": {
+      "mae": 19234.659190777442,
+      "rmse": 54551.476937742045,
+      "r2": 0.3965834705573834,
+      "median_absolute_error": 5441.861449583681,
+      "rmsle": 3.438477030399936
+    },
+    "high_cost_test_mae": {
+      "top10": 95759.28491592337,
+      "top5": 150076.4970003695,
+      "top1": 388187.58310022997
+    }
+  },
+  "split": {
+    "source": "Exact saved corrected v4/full-data-comparison episode IDs",
+    "random_state": 42,
+    "inner_split_seed": 43,
+    "train_records": 93511,
+    "test_records": 23277,
+    "train_people": 84854,
+    "test_people": 21214,
+    "person_overlap_count": 0,
+    "selection_train_records": 74617,
+    "validation_records": 18894,
+    "selection_validation_person_overlap_count": 0,
+    "selected_stopping_iterations": 111,
+    "test_used_for_selection": false
+  },
+  "dataset": {
+    "survey": "NSS 80th Round Schedule 25.0",
+    "reference_period": "January-December 2025",
+    "modeling_rows": 116788,
+    "country": "India"
+  },
+  "prediction_interval": {
+    "available": true,
+    "artifact": "practical_15_prediction_range/practical_15_interval_80.joblib",
+    "sha256": "cc2895364b480186ef45c37e7255583861d979e41dd5997ee33be9d040da28b4",
+    "method": "10th/90th conditional HGB quantiles with nonnegative person-level finite-sample CQR calibration; displayed bounds widen only to include the frozen point estimate.",
+    "nominal_coverage": 0.8,
+    "lower_quantile": 0.1,
+    "upper_quantile": 0.9,
+    "calibration_unit": "person (maximum across episodes)",
+    "calibration_statistic_inr": 0.0,
+    "calibration_people": 12728,
+    "partitions": {
+      "selection_train": {
+        "episodes": 52307,
+        "people": 47517
+      },
+      "selection_validation": {
+        "episodes": 13099,
+        "people": 11880
+      },
+      "interval_final_fit": {
+        "episodes": 65406,
+        "people": 59397
+      },
+      "calibration": {
+        "episodes": 14120,
+        "people": 12728
+      },
+      "coverage_audit": {
+        "episodes": 13985,
+        "people": 12729
+      },
+      "locked_test": {
+        "episodes": 23277,
+        "people": 21214
+      }
+    },
+    "all_relevant_person_overlaps": 0,
+    "locked_test_used_for_selection_or_calibration": false,
+    "independent_audit_episode_coverage": 0.8843046120843762,
+    "independent_audit_person_simultaneous_coverage": 0.8787807368999921,
+    "locked_test_episode_coverage": 0.8846930446363362,
+    "locked_test_person_simultaneous_coverage": 0.879749222211747,
+    "locked_test_mean_width_inr": 54548.04383021107,
+    "locked_test_median_width_inr": 26496.39399269979,
+    "coverage_interpretation": "Nominal 80% marginal range across exchangeable people, not an individual guarantee. Locked test was used only once for final comparison and not for selection or calibration. High-cost coverage is lower than overall coverage.",
+    "point_estimator_retrained": false,
+    "point_sha256": "86cfc650a2a8ddfde94d64f8b4f123b34aa6dbc99052d99fe821265f00644695",
+    "quantile_crossing_policy": "Conservative monotone envelope raises upper to lower if crossing occurs; observed crossing rate was zero.",
+    "comparison_report": "reports/nss80/practical_15_prediction_range/interval_comparison.json",
+    "selection_reason": "Chosen over the 90% candidate for user-facing balance: 88.47% empirical locked-test coverage with 24.54% lower mean width and 29.37% lower median width; high-cost limitations remain explicit."
+  },
+  "leakage_guard": {
+    "known_leakage_columns_in_model": [],
+    "target_in_features": false,
+    "payment_status_detail_used": false,
+    "known_leakage_count": 0
+  },
+  "feature_reduction_history": [
+    {
+      "version": "nss80_v4",
+      "features": 37,
+      "test_r2": 0.4232307848779787
+    },
+    {
+      "version": "nss80_compact_25",
+      "features": 25,
+      "test_r2": 0.4191132873872677
+    },
+    {
+      "version": "nss80_practical_15",
+      "features": 15,
+      "test_r2": 0.39769617865686857
+    }
+  ],
+  "artifact": {
+    "production_relative_path": "models/nss80/primary_model.joblib",
+    "selected_source_relative_path": "models/nss80/practical_15_input_experiment/practical_15_features.joblib",
+    "sha256": "86cfc650a2a8ddfde94d64f8b4f123b34aa6dbc99052d99fe821265f00644695",
+    "previous_production_backup_relative_path": "models/nss80/archive/production_compact25_before_practical15/primary_model.joblib",
+    "previous_production_sha256": "c7b171a27686ac6d08319a5b20e87f4fc21085df6feace848b39a2e33b938869"
+  },
+  "source_artifact": "D:\\YongXuan\\HealthcareCostPredictionSystem\\Backend\\models\\nss80\\practical_15_input_experiment\\practical_15_features.joblib",
+  "model_sha256": "86cfc650a2a8ddfde94d64f8b4f123b34aa6dbc99052d99fe821265f00644695",
+  "previous_production_model_version": "nss80_compact_25",
+  "previous_production_metrics": {
+    "mae": 19087.165620838143,
+    "rmse": 56605.08310221816,
+    "r2": 0.4191132873872677,
+    "median_absolute_error": 5241.764715409216,
+    "rmsle": 3.340442260935036
+  },
+  "limitations": [
+    "Research estimate only; not a quotation, clinical recommendation, or guarantee.",
+    "The NSS result remains in INR and is not converted to or merged with Malaysian MYR pricing.",
+    "The leakage-safe locked-test R2 is 0.3977, so substantial individual-case variation remains unexplained.",
+    "The displayed 90% interval is marginally person-calibrated and is not an individual coverage guarantee."
+  ]
+}

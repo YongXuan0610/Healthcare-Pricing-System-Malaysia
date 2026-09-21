@@ -1,0 +1,8 @@
+-r requirements.txt
+
+# Required only to reproduce the documented categorical-boosting experiment.
+# The deployed NSS v2 model remains scikit-learn based.
+catboost==1.2.8
+
+# Required only for the NSS v4 leakage-safe model-family comparison.
+xgboost==3.2.0

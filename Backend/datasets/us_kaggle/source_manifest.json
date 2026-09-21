@@ -1,0 +1,9 @@
+{
+  "component": "us_kaggle_secondary_benchmark",
+  "research_role": "secondary_benchmark",
+  "file": {
+    "path": "raw/Insurance_Dataset_US_Medical_Charges_1338.csv",
+    "bytes": 61290,
+    "sha256": "ca62a83898d62ead2ae3b0299215e752dee1ad829a08d003408ef522dbffb1af"
+  }
+}

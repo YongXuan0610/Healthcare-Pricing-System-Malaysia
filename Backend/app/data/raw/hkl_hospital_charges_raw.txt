@@ -1,0 +1,4804 @@
+Hospital Charges
+HOME
+ABOUT US
+About Us
+Director's Message
+700 Days Achievement
+Introduction
+Vision & Mission
+Patient Charter
+Organisation Chart
+Top Management
+HKL Quality Policy
+HKL Visiting Board Member
+Hospital Kluster Klang Valley 2
+Directorat
+Management
+Medical I
+Medical II
+Medical III
+Institution
+Hospital Tunku Azizah
+Institut Perubatan Respiratori
+Publication
+Corporate Video
+150 Years of HKL
+HKL Bulletin
+Counseling Psychology Bulletin
+patient And Family Right
+PUBLIC
+Facilities
+Navigation Portal
+Clinic Schedule
+Visiting Hours
+Revenue Counters
+Hospital Charges
+Medical Report
+Quotation / Tender
+STAFF
+Intranet
+ICT Tips
+Links
+CONTACT US
+Directory
+Feedback
+Frequently Asked Question (FAQ)
+Carian
+Select your language
+Hospital Charges
+CITIZEN
+FOREIGNER
+WARD CHARGES
+No.
+Class
+Charge Per Day (RM)
+NON AIR CONDITIONED
+First Class
+1
+One bedded room
+90
+2
+Two bedded room
+60
+3
+Three bedded room or more
+45
+4
+Second Class
+25
+5
+Third Class
+3
+AIR CONDITIONED
+1
+One bedded room
+120
+2
+Two bedded room
+90
+3
+Three bedded room or more
+60
+4
+Second Class
+40
+5
+Third Class
+3
+EXECUTIVE WARD
+No.
+Class
+Charge Per Day (RM)
+1
+One bedded room (VIP)
+225
+2
+One bedded room
+180
+3
+Two bedded room
+150
+PSYCHIATRIC WARD
+No.
+Class
+Charge Per Day (RM)
+1
+First Class
+15
+2
+Second Class
+10
+3
+Third Class
+0
+INPATIENT  CHARGE
+No.
+Class
+Charge Per Day (RM)
+1
+First Class
+15
+2
+Second Class
+5
+3
+Third Class
+0
+TREATMENT CHARGES
+Psikiatrik
+Fisioterapi
+Radioterapi & Onkologi
+Nefrologi
+Occuterapi
+Occuterapi2
+Linguatherapy
+Dietetik
+Tradisi
+Siasatan Radio
+Ujian
+Siasatan
+Pergigian
+No.
+Class
+Per Admission (RM)
+1
+First Class
+1125
+2
+Second Class
+300
+3
+Third Class
+0
+No.
+Type of treatment
+Every Admission
+First Class
+Second Class
+Third Class
+(RM)
+(RM)
+(RM)
+Electrotherapy modalities
+1
+Biofeedback /myofeedback
+30
+20
+5
+2
+Direct current / iontophorosis
+30
+20
+5
+3
+Didynamic current
+30
+20
+5
+4
+Interrupted direct current
+30
+20
+5
+5
+Interferential therapy
+30
+20
+5
+6
+Shortwave diathermy
+30
+20
+5
+7
+Transcutaneous electrical nerve stimulation
+30
+20
+5
+8
+Ultrasound therapy
+30
+20
+5
+9
+Realtime ultrasound
+30
+20
+5
+10
+Functional electrical stimulation
+30
+20
+5
+11
+Shockwave therapy
+30
+20
+5
+Thermal therapy/cryotherapy
+12
+Hot pack
+15
+10
+2
+13
+Wax bath
+15
+10
+2
+14
+Infrared radiation
+15
+10
+2
+15
+Cryotherapy
+15
+10
+2
+Phototherapy
+16
+Laser therapy
+30
+15
+5
+17
+Ultraviolet light  therapy
+30
+15
+5
+Cardiorespiratory therapy
+18
+Active Cycle Breathing Technique (ACBT)
+30
+15
+5
+19
+Breathing exercise
+30
+15
+5
+20
+Bronchial suction
+30
+15
+5
+21
+Incentive spirometer
+30
+15
+5
+22
+Flutter
+30
+15
+5
+23
+Inspiratory muscle training
+30
+15
+5
+24
+Inhalation therapy
+30
+15
+5
+25
+Percussion/vibration
+30
+15
+5
+26
+Positive expiratory pressure
+30
+15
+5
+27
+Postural drainage
+30
+15
+5
+Mechano therapy
+28
+Cervical traction
+20
+10
+2
+29
+Lumbar traction
+20
+10
+2
+30
+Sequential pump
+20
+10
+2
+Hydrotherapy
+31
+Pool exercise
+20
+10
+2
+32
+Whirlpool
+20
+10
+2
+Manual therapy
+33
+Soft tissue manipulation
+20
+10
+2
+34
+Myofascial release
+20
+10
+2
+35
+Manual lymphatic  drainage
+20
+10
+2
+36
+Accupressure
+20
+10
+2
+37
+Taping/bandaging/strapping
+30
+20
+0
+38
+Compression therapy (lymphoedema)
+30
+20
+0
+Special techniques
+39
+Canalith repositioning technique
+30
+20
+2
+40
+Gaze stabilisation exercise
+30
+20
+2
+41
+Icing or brushing
+30
+20
+2
+42
+Joint mobilization
+30
+20
+2
+43
+McKenzie technique
+30
+20
+2
+44
+Motor re-learning programme
+30
+20
+2
+45
+Acupuncture or dry needling
+30
+20
+2
+46
+Neurodevelopmental technique
+30
+20
+2
+47
+Proprioceptive neuromuscular facilitation
+30
+20
+2
+Exercise therapy
+48
+Active, passive or resisted
+20
+10
+2
+49
+Ambulation or gait  training
+20
+10
+2
+50
+Antenatal and postnatal exercise
+20
+10
+2
+51
+Balance training
+20
+10
+2
+52
+Bladder/bowel training
+20
+10
+2
+53
+Circuit training
+20
+10
+2
+54
+Gymnic ball exercise
+20
+10
+2
+55
+Counter bracing technique for pelvic floor muscle
+20
+10
+2
+56
+Functional activities
+20
+10
+2
+57
+Group exercise
+20
+10
+2
+58
+Isokinetic exercise
+20
+10
+2
+59
+Mechanical exercise
+20
+10
+2
+60
+Pelvic floor muscle exercise
+20
+10
+2
+61
+Relaxation technique
+20
+10
+2
+62
+Sensory re-education
+20
+10
+2
+63
+Special hand regime
+20
+10
+2
+SPECIAL TEST
+Diagnostic tool
+64
+Berg’s balance test
+50
+30
+5
+65
+Clinical Test for Sensory Interaction and Balance (CTSIB)
+50
+30
+5
+66
+Computerized Dynamic Posturography
+50
+30
+5
+67
+Computerized hand evaluation
+50
+30
+5
+68
+Dynamic gait index
+50
+30
+5
+69
+Pelvic floor muscle assessment
+50
+30
+5
+70
+Sensory testing
+50
+30
+5
+71
+Strength duration curve
+50
+30
+5
+72
+Voluntary muscle testing
+50
+30
+5
+73
+Vestibular test
+50
+30
+5
+74
+Timed up and go test
+50
+30
+5
+75
+Functional reach test
+50
+30
+5
+No.
+Type of treatment
+Inpatient
+Outpatient
+First Class (RM)
+Second Class (RM)
+Third Class (RM)
+Referral from a Private Practioner
+Referral from a Government Medical Officer
+(RM)
+(RM)
+Simulation and computerized
+planning
+1
+Mark on set
+45
+30
+Free
+45
+15
+2
+Conventional simulation
+450
+200
+Free
+450
+75
+3
+CT simulation: Normal (without contrast)
+450
+200
+Free
+450
+75
+4
+CT simulation: Complex (with contrast)
+450
+200
+Free
+450
+75
+5
+CT simulation: Intensity Modulated Radiotherapy
+(IMRT)
+450
+200
+Free
+450
+75
+6
+CT simulation: Total Body
+Irradiation (TBI)
+450
+200
+Free
+450
+75
+7
+CT simulation: Total Nodal
+Irradiation (TNI)
+450
+200
+Free
+450
+75
+8
+CT simulation: Total Body
+Electron (TBE)
+450
+200
+Free
+450
+75
+9
+CT simulation: Stereotactic Radiotherapy (SRT)
+450
+200
+Free
+450
+75
+10
+CT simulation: Stereotactic
+Radiosurgery(SRS)
+450
+200
+Free
+450
+75
+11
+CT simulation: Stereotactic Body Radiotherapy (SBRT)
+450
+200
+Free
+450
+75
+Radiotherapy treatment
+12
+2D/single field/parallel opposed (per
+fraction)
+100
+50
+12 (RTPC)
+100
+25
+13
+3D/any plans with 3 or more fields (per fraction)
+100
+50
+12 (RTPC)
+100
+25
+14
+Intensity-modulated radiation therapy - IMRT (per fraction)
+100
+50
+12 (RTPC)
+100
+25
+15
+Traumatic Brain Injury - TBI (per fraction)
+100
+50
+12 (RTPC)
+100
+25
+16
+Total Nodal Irradiation - TNI (per fraction)
+100
+50
+12 (RTPC)
+100
+25
+17
+SRT (per fraction)
+100
+50
+12 (RTPC)
+100
+25
+18
+Stereotactic Radiation Therapy - SRS (package treatment to be charged once only)
+7000
+5000
+12 (per treatment) (RTPC)
+7000
+500
+19
+Stereotactic body radiation therapy - SBRT (package treatment to be charged once only)
+7000
+5000
+12 (per treatment) (RTPC)
+7000
+500
+Brachytherapy treatment
+20
+Intracavitary : dhobbies/single line source (per session)
+75
+30
+6 (RTPB)
+75
+15
+21
+Intracavitary : paired ovoids (per session)
+75
+30
+6 (RTPB)
+75
+15
+22
+Intracavitary : full intracavitary (per session)
+75
+30
+6 (RTPB)
+75
+15
+23
+Intracavitary : for nasopharyngeal cancer (NPC) (per session)
+75
+30
+6 (RTPB)
+75
+15
+24
+Intraluminal : Esophagus, bronchus, anorectal (per session)
+75
+30
+6 (RTPB)
+75
+15
+25
+Interstitial brachytherapy implants : breast
+brachytherapy implants (per session)
+75
+30
+6 (RTPB)
+75
+15
+26
+Interstitial brachytherapy implants :
+extremities implants (per session)
+75
+30
+6 (RTPB)
+75
+15
+27
+Brachytherapy implants : oral cavity/ anorectal/
+prostate/eye and other implants (per session)
+75
+30
+6 (RTPB)
+75
+15
+28
+Prostate brachytherapy procedure (package
+treatment)
+7,000
+5,000
+6 (RTPB)
+-
+-
+Anti-neoplastic treatment
+29
+Anti-neoplastic for cancer (besides targeted therapy) (per treatment)
+400
+200
+50 (RTPF)
+400
+100
+30
+Targeted therapy treatment for cancer (per treatment)
+600
+400
+50 (RTPF)
+600
+150
+31
+Cancer treatment that needs special approval from the Director General of Health (per treatment)
+800
+200
+50 (RTPF)
+800
+200
+Nuclear medicine
+Radioactive isotopes:
+32
+(i) Diagnosis
+150
+50
+25 (RTPG)
+150
+25
+33
+(ii) Theraphy
+750
+250
+125 (RTPH)
+750
+125
+No.
+Type of treatment
+First Class
+Second Class
+Third Class
+(RM)
+(RM)
+(RM)
+1
+Intermitent peritonial dialysis per treatment
+275
+100
+50 (NEFA)
+2
+Continuous Ambulatory Peritoneal Dialysis (CAPD) treatment (monthly)
+750
+200
+100 (NEFB)
+3
+Hemodialysis per treatment:
+4
+(i) one use of artificial kidney
+190
+50
+25 (NEFC)
+5
+(ii) re-use of artificial kidney
+75
+20
+10 (NEFD)
+6
+Renal biopsy (excluding report)
+75
+20
+10 (NEFE)
+7
+Femoral/subclaviancatheterisation for hemodialysis
+75
+20
+10 (NEFF)
+8
+Haemoperfusion
+375
+100
+50 (NEFG)
+9
+Implantation of tenchkoff catheter
+150
+40
+20 (NEFH)
+10
+Pretransplant dialysis treatment
+1500
+400
+200 (NEFI)
+11
+Home visit per hemodialysis
+100 (per visit)
+No.
+Type of treatment
+First Class (RM)
+Second Class (RM)
+Third Class (RM)
+ASSESSMENT
+Activities of Daily Living
+(ADL) Assessment
+1
+Canadian Occupational Therapy Performance Measure (C.O.P.M)
+20
+10
+Free
+2
+Camberwell Assessment of
+Needs Short Schedule
+(CANSAS)
+20
+10
+Free
+3
+Functional Ability Assessment
+(FAA)
+20
+10
+Free
+4
+Functional Independence
+Measure (FIM)
+20
+10
+Free
+5
+Kohlman Evaluation of Living skill  (KELS)
+20
+10
+Free
+6
+The Lawton instrumental activities daily living scale
+20
+10
+Free
+7
+Modified Barthel Index (MBI)
+20
+10
+Free
+8
+Occupational therapy for cardiac assessment
+20
+10
+Free
+9
+Pediatric Evaluation
+Disabilities inventory (PEDI)
+20
+10
+Free
+10
+Performance Assessment of
+Self Care Skills (PASS)
+20
+10
+Free
+11
+Assessment of Motor and Process Skills in Mental Health (AMPS)
+20
+10
+Free
+Physical assessment
+12
+Muscle  Manual Test (MMT)
+20
+10
+Free
+13
+Strength-dynamometer/ pinch gauge
+20
+10
+Free
+14
+2 point discrimination test
+20
+10
+Free
+15
+9 hole peg test
+20
+10
+Free
+16
+Berg balance test
+20
+10
+Free
+17
+Grooved peg board
+20
+10
+Free
+18
+Jebsen Taylor hand function test
+20
+10
+Free
+19
+Minnesota manual dexterity test
+20
+10
+Free
+20
+Pain Scale
+20
+10
+Free
+21
+O’Connor finger dexterity test
+20
+10
+Free
+22
+O’Connor tweezer dexterity test
+20
+10
+Free
+23
+Muscle Tone
+20
+10
+Free
+24
+Purdue pegboard test
+20
+10
+Free
+25
+Range of motion (Goniometer)
+20
+10
+Free
+26
+Roeder manipulative aptitude test
+20
+10
+Free
+27
+Semmes-Weinstein monofilaments test
+20
+10
+Free
+28
+Sensory profile
+20
+10
+Free
+29
+Stereognosis test
+20
+10
+Free
+30
+Vibration
+20
+10
+Free
+31
+Volumeter
+20
+10
+Free
+32
+Tinnetti balance test
+20
+10
+Free
+33
+Microcomputer Upper Limb Exerciser (MULE)
+20
+10
+Free
+Normal development assessment
+34
+Bruiniks-Oseretsky test
+20
+10
+Free
+35
+Denver developmental screening chart
+20
+10
+Free
+36
+Oral motor rating scale
+20
+10
+Free
+37
+Peabody
+20
+10
+Free
+Perceptual and cognitive assessment
+38
+The Berry Buktenica Development  Test Of Visual – Motor Integration (Berry VMI)
+20
+10
+Free
+39
+Chessington Occupational Therapy Neurological Assessment Battery (C.O.T.N.A.B)
+20
+10
+Free
+40
+Hospital anxiety depression scale
+20
+10
+Free
+41
+Lowerstein Occupational Therapy Cognitive Assessment (LOCTA)
+20
+10
+Free
+42
+-LOCTA-A (for adult general cases)
+20
+10
+Free
+43
+-LOTCA-G (for geriatric cases)
+20
+10
+Free
+44
+-LOTCA-D (for children/developmental cases)
+20
+10
+Free
+45
+Mini Mental State Examination (MMSE)
+20
+10
+Free
+46
+Montreal Cognitive Assessment (MoCA)
+20
+10
+Free
+47
+Rivermead preceptual assessment battery
+20
+10
+Free
+Preschool assessment
+48
+Miller assessment pre schoolers
+20
+10
+Free
+49
+School Function  Assessment (SFA)
+20
+10
+Free
+50
+Test of handwritting skill
+20
+10
+Free
+Behavior assessment
+51
+Threshold Assessment Grid (TAG)
+20
+10
+Free
+52
+Hospital anxiety and depression scale
+20
+10
+Free
+53
+Irritability (depression anxiety scale)
+20
+10
+Free
+54
+Sharman's function questionaire
+20
+10
+Free
+55
+The Beck depression scale
+20
+10
+Free
+56
+Post Traumatic Amnesia scale (PTA scale)
+20
+10
+Free
+57
+Wheel chair assessment
+20
+10
+Free
+Driving assessment
+58
+Pre driving  assessment
+150
+100
+Free
+59
+Stroke driving screening assessment
+150
+100
+Free
+Home/work place/ school assessment
+60
+Home falls and accidents screening tool (FAST)
+20
+10
+Free
+Work/vocational assessment
+61
+Functional capacity evaluation
+150
+100
+Free
+62
+LAM Assessment of Employment  Readiness (LASER)
+150
+100
+Free
+63
+Role check list
+150
+100
+Free
+Activities of daily living training
+64
+Ability to use telephone
+20
+10
+Free
+65
+Early ambulation
+20
+10
+Free
+66
+Self hygiene
+20
+10
+Free
+67
+Transfer
+20
+10
+Free
+68
+Ability handle finance
+20
+10
+Free
+69
+Bathing
+20
+10
+Free
+70
+Bladder management
+20
+10
+Free
+71
+Bowel management
+20
+10
+Free
+72
+Cleaning work
+20
+10
+Free
+73
+Device care
+20
+10
+Free
+74
+Domestic skill
+20
+10
+Free
+75
+Dressing
+20
+10
+Free
+76
+Eating/feeding
+20
+10
+Free
+77
+Food/meal preparation
+20
+10
+Free
+78
+Functional communication
+20
+10
+Free
+79
+Functional mobility
+20
+10
+Free
+80
+Grooming
+20
+10
+Free
+81
+Health eminence
+20
+10
+Free
+82
+Household maintenance
+20
+10
+Free
+83
+Housekeeping
+20
+10
+Free
+84
+Laundry
+20
+10
+Free
+85
+Mode of transportation
+20
+10
+Free
+86
+Money management
+20
+10
+Free
+87
+Responsibility for medication
+20
+10
+Free
+88
+Safety procedure
+20
+10
+Free
+89
+Sexual function
+20
+10
+Free
+90
+Shopping
+20
+10
+Free
+91
+Toileting
+20
+10
+Free
+Aids and adaptation (for each modification equipment supplied)
+92
+Cooking utensil
+20
+10
+Free
+93
+Dressing
+20
+10
+Free
+94
+Feeding/drinking utensil
+20
+10
+Free
+95
+Mobility
+20
+10
+Free
+96
+Bathing
+20
+10
+Free
+97
+Reading/writing
+20
+10
+Free
+98
+Wheel chair seating
+20
+10
+Free
+99
+Low vision rehabilitation
+20
+10
+Free
+100
+Cognitive and perceptual intervention
+101
+Basic concepts
+20
+10
+Free
+102
+Body part identification
+20
+10
+Free
+103
+Cognitive stimulation
+20
+10
+Free
+104
+Educational activities
+20
+10
+Free
+105
+Right/left discrimination
+20
+10
+Free
+106
+Figure-ground discrimination
+20
+10
+Free
+107
+Reality orientation
+20
+10
+Free
+108
+Topographical orientation activities
+20
+10
+Free
+109
+Sequencing
+20
+10
+Free
+110
+Categorization
+20
+10
+Free
+111
+Mirror therapy
+20
+10
+Free
+112
+Behavioral therapy
+20
+10
+Free
+Creative therapy
+113
+Art therapy
+20
+10
+Free
+114
+Drama/role play
+20
+10
+Free
+115
+Music therapy
+20
+10
+Free
+Social skill intervention
+116
+Assertive training
+20
+10
+Free
+117
+Coping skill training
+20
+10
+Free
+118
+Group support
+20
+10
+Free
+119
+Group therapy
+20
+10
+Free
+120
+Individual therapy
+20
+10
+Free
+121
+Interpersonal skill
+20
+10
+Free
+122
+Self  awareness activities
+20
+10
+Free
+123
+Self  control
+20
+10
+Free
+124
+Self  expression
+20
+10
+Free
+125
+Social conduct
+20
+10
+Free
+126
+Social skill training
+20
+10
+Free
+127
+Time management
+20
+10
+Free
+128
+Role checklist
+20
+10
+Free
+Patient's and carer's occupational therapy education
+129
+Body mechanic and ergonomic
+20
+10
+Free
+130
+Edema control and prevention
+20
+10
+Free
+131
+Energy conservation/work simplification
+20
+10
+Free
+132
+Environment therapy
+20
+10
+Free
+133
+Joint  protection techniques
+20
+10
+Free
+Play and leisure
+134
+Leisure check list
+20
+10
+Free
+135
+Play and leisure exploration
+20
+10
+Free
+136
+Play and leisure training
+20
+10
+Free
+Relaxation
+137
+Biofeedback
+20
+10
+Free
+138
+Deep breathing
+20
+10
+Free
+139
+Diaphragmatic breathing
+20
+10
+Free
+140
+Imaginary relaxation
+20
+10
+Free
+141
+Progressive muscular relaxation techniques
+20
+10
+Free
+Sensory training
+142
+Sensory desensitization
+20
+10
+Free
+143
+Sensory integration
+20
+10
+Free
+144
+Sensory re-education
+20
+10
+Free
+145
+Sensory stimulation
+20
+10
+Free
+146
+Fluidotherapy
+20
+10
+Free
+Motor training
+147
+Above elbow prosthesis
+20
+10
+Free
+148
+Above knee prosthesis
+20
+10
+Free
+149
+Active assisted exercise
+20
+10
+Free
+150
+Below elbow prosthesis
+20
+10
+Free
+151
+Below knee prosthesis
+20
+10
+Free
+152
+Bilateral integration
+20
+10
+Free
+153
+Crossing midline
+20
+10
+Free
+154
+Ergonomic training
+20
+10
+Free
+155
+Fine motor skills
+20
+10
+Free
+156
+Finger prosthesis
+20
+10
+Free
+157
+Gait training
+20
+10
+Free
+158
+Gross motor activities
+20
+10
+Free
+159
+Hand and eye coordination
+20
+10
+Free
+160
+Improve balance
+20
+10
+Free
+161
+Motor re-education
+20
+10
+Free
+162
+Neuro developmental technique
+20
+10
+Free
+163
+Normalize muscle tone
+20
+10
+Free
+164
+Oral muscle stimulation
+20
+10
+Free
+165
+Strengthening exercise
+20
+10
+Free
+166
+Endurance training
+20
+10
+Free
+167
+Reduce muscle tone
+20
+10
+Free
+168
+Orientation and mobility intervention
+20
+10
+Free
+No.
+Type of treatment
+First Class
+Second Class
+Third Class
+First Class
+Second Class
+Third Class
+First Class
+Second Class
+Third Class
+(RM)
+(RM)
+(RM)
+(RM)
+(RM)
+(RM)
+(RM)
+(RM)
+(RM)
+AGE 0 - 12 MONTHS
+AGE 1 - 18 YEARS
+AGE 18 YEARS AND ABOVE
+Compression therapy
+1
+Tubegrip
+10
+10
+Free
+20
+20
+Free
+20
+20
+Free
+2
+Coban bandage
+10
+10
+Free
+15
+15
+Free
+20
+20
+Free
+Pressure garment
+3
+Finger strap
+0
+0
+0
+5
+5
+0
+5
+5
+0
+4
+Gauntlet
+10
+10
+Free
+15
+15
+Free
+15
+15
+Free
+5
+Glove
+15
+15
+Free
+20
+20
+Free
+20
+20
+Free
+6
+Forearm sleeve
+10
+10
+Free
+15
+15
+Free
+20
+20
+Free
+7
+Full arm sleeve
+15
+15
+Free
+20
+20
+Free
+25
+25
+Free
+8
+Vest with long sleeve
+30
+30
+Free
+40
+40
+Free
+60
+60
+Free
+9
+Vest with short sleeve
+20
+20
+Free
+30
+30
+Free
+50
+50
+Free
+10
+Chin strap
+10
+10
+Free
+10
+10
+Free
+15
+15
+Free
+11
+Mask
+20
+20
+Free
+30
+30
+Free
+40
+40
+Free
+12
+Short pants
+20
+20
+Free
+30
+30
+Free
+40
+40
+Free
+13
+Long pants
+30
+30
+Free
+40
+40
+Free
+60
+60
+Free
+14
+Thigh strap
+15
+15
+Free
+20
+20
+Free
+25
+25
+Free
+15
+Calf strap
+15
+15
+Free
+20
+20
+Free
+25
+25
+Free
+16
+Socks (1 unit)
+15
+15
+Free
+20
+20
+Free
+25
+25
+Free
+17
+Dynamic splint
+0
+0
+Free
+150
+150
+Free
+150
+150
+Free
+Static splint
+18
+Finger/toe
+0
+0
+0
+5
+5
+0
+5
+5
+0
+19
+Hand/foot
+10
+10
+Free
+10
+10
+Free
+15
+15
+Free
+20
+Hand to forearm
+15
+15
+Free
+25
+25
+Free
+40
+40
+Free
+21
+Finger to forearm
+15
+15
+Free
+30
+30
+Free
+60
+60
+Free
+22
+Forearm to upper arm
+15
+15
+Free
+30
+30
+Free
+60
+60
+Free
+23
+Hand to upper arm
+30
+30
+Free
+60
+60
+Free
+120
+120
+Free
+24
+Upper arm
+20
+20
+Free
+30
+30
+Free
+80
+80
+Free
+25
+Hard collar
+20
+20
+Free
+40
+40
+Free
+80
+80
+Free
+26
+Foot to calf
+30
+30
+Free
+60
+60
+Free
+80
+80
+Free
+27
+Foot to mid thigh
+60
+60
+Free
+80
+80
+Free
+150
+150
+Free
+28
+Mid calf to mid thigh
+20
+20
+Free
+60
+60
+Free
+80
+80
+Free
+29
+Plasterzote insole
+5
+5
+Free
+10
+10
+Free
+15
+15
+Free
+30
+Tennis elbow
+0
+0
+0
+35
+35
+0
+35
+35
+0
+31
+Ulnar driff
+5
+5
+Free
+10
+10
+Free
+15
+15
+Free
+32
+Ergonomic Arm Sling (EAS)
+0
+0
+0
+30
+30
+0
+35
+35
+0
+33
+Foot drop check
+0
+0
+0
+15
+15
+0
+20
+20
+0
+34
+Buddy strap
+5
+5
+Free
+5
+5
+Free
+5
+5
+Free
+35
+Body brace
+100
+100
+Free
+250
+250
+Free
+500
+500
+Free
+36
+Pelvis harness
+100
+100
+Free
+180
+180
+Free
+0
+0
+Free
+No.
+Assessment Category
+First Class (RM)
+Second Class (RM)
+Third Class (RM)
+Outpatient (RM)
+1
+Speech-language assessment
+50
+20
+Free
+10
+2
+Clinical Swallowing
+Evaluation (CSE)
+50
+20
+Free
+10
+3
+Instrumental assessment of voice
+50
+20
+Free
+10
+4
+Instrumental assessment of
+resonance
+50
+20
+Free
+10
+5
+Fiberoptic
+Endoscopic
+Evaluation of
+Swallowing (FEES)
+50
+20
+Free
+10
+6
+Videofloroscopic
+Swallowing Study
+(VFSS)
+80
+30
+Free
+20
+7
+Speech-language therapy
+50
+20
+Free
+10
+8
+Electrotherapy
+50
+20
+Free
+10
+No.
+Investigation category
+First Class (RM)
+Second Class (RM)
+Third Class (RM)
+Outpatient (RM)
+1
+Nutrition assessment
+10
+5
+Free
+1
+2
+Indirect calorimetry
+20
+10
+Free
+5
+3
+Individual diet therapy
+10
+5
+Free
+2
+4
+Group diet therapy
+0
+0
+0
+1
+5
+Individual diet therapy: Oral nutritional supplement
+20
+10
+Free
+-
+6
+Individual diet therapy: Enteral nutrition
+50
+30
+Free
+-
+NO.
+Traditional Malay Medicine
+First Class (RM)
+Second Class (RM)
+Third Class (RM)
+Outpatient (RM)
+Traditional massage
+1
+Chronic pain (per session)
+20
+20
+Free
+20
+2
+Post stroke (per session)
+20
+20
+Free
+20
+Traditional postnatal care
+3
+Wellness postnatal massage (per session)
+20
+20
+Free
+20
+4
+Midwifery care (per session)
+50
+50
+Free
+50
+Traditional Chinese Medicine
+Acupuncture
+5
+Chronic pain (per session)
+20
+20
+Free
+20
+6
+Post stroke (per session)
+20
+20
+Free
+20
+7
+Acupuncture and moxibustion for chronic pain (per session)
+25
+25
+Free
+25
+8
+Acupuncture and moxibustion for post stroke
+(per session)
+25
+25
+Free
+25
+9
+Acupuncture and cupping for chronic pain (per session)
+25
+25
+Free
+25
+10
+Acupuncture and cupping for post stroke (per session)
+25
+25
+Free
+25
+11
+Other indication (per session)
+20
+20
+Free
+20
+Herbal Oncology
+12
+Adjunct therapy for cancer (per cycle)
+100
+100
+Free
+100
+Traditional Indian Medicine
+Ayurveda
+13
+Shirodhara (per session)
+50
+50
+Free
+50
+14
+External basti theraphy (per session)
+50
+50
+Free
+50
+15
+Abhyanga (per session)
+50
+50
+Free
+50
+Siddha
+16
+Varman therapy (per session)
+20
+20
+Free
+20
+Complementary Therapy
+17
+Chiropractic (per session)
+50
+50
+Free
+50
+18
+Osteopathic (per session)
+75
+75
+Free
+75
+No.
+Type of Investigation
+First Class (RM)
+Second Class (RM)
+Third Class (RM)
+Examination without contrast media
+1
+Limbs
+75
+20
+10
+2
+Head
+90
+25
+12
+3
+Spine
+90
+25
+12
+4
+Chest except miniature film of chest
+75
+20
+10
+5
+Miniature film of chest
+25
+6
+2
+6
+Bone pelvis, hips and abdomen
+90
+25
+12
+7
+Tomography
+150
+40
+17
+8
+Pelvimetry
+100
+40
+17
+9
+Fluroscopy of heart, lungs, diaphragm
+150
+40
+12
+10
+Skeletal Survey
+375
+100
+37
+11
+Mammography
+150
+40
+12
+12
+Dental intra-oral (per film)
+15
+5
+1
+13
+Dental Orthopantomogram (OPG)
+105
+30
+10
+14
+Lateral skull
+105
+30
+10
+15
+Ultrasound
+150
+40
+17
+16
+Ultrasound (simple)
+75
+20
+10
+17
+Dental Cone Beam Computed Tomography (CBCT)
+350
+150
+Free
+18
+3D OPG
+350
+150
+Free
+19
+Dental digital radiograph
+100
+40
+Free
+20
+C.T. abdomen
+675
+200
+75
+21
+C.T. head
+525
+150
+60
+22
+C.T. whole body
+900
+240
+120
+Specialised examination with contrast media
+23
+Arteriography
+450
+120
+50
+24
+Contrast examination of G.I. tract
+150
+40
+17
+25
+Contrast examination of Biliary tract
+180
+48
+20
+26
+Contrast examination of urinary tract
+150
+40
+17
+27
+Contrast examination of central nervous system
+225
+60
+25
+28
+Contrast examination of other ducts and tracts
+115
+30
+12
+29
+Artography
+150
+40
+17
+30
+Bronkography
+190
+50
+21
+31
+Limfangiography
+300
+80
+35
+32
+Presacral air insufflation
+300
+80
+35
+33
+Percutaneous Transhepatic
+Cholangiography (PTC)
+225
+60
+25
+34
+Splenoportography
+450
+120
+50
+35
+Salpingography
+150
+40
+17
+No.
+Group
+First Class (RM)
+Second Class (RM)
+Third Class (RM)
+Group A
+1
+Cellular immunological tests
+150
+50
+25
+Group B
+2
+Electron microscopy
+120
+40
+20
+3
+Frozen section (inclusive of confirmation)
+120
+40
+20
+Group C
+4
+Special haematological tests
+75
+25
+12
+5
+Microbiological analysis of food products, etc.
+75
+25
+12
+6
+Antibiotic assay and sterility testing
+75
+25
+12
+7
+Functional test (biochemical)
+75
+25
+12
+Group D
+8
+Package nutritional tests
+60
+20
+10
+9
+Surgical biopsy
+60
+20
+10
+10
+Cytological examination inclusive of collecting of specimens
+60
+20
+10
+11
+Hormonal assessment
+60
+20
+10
+12
+Extensive routine haematological test
+60
+20
+10
+Group E
+13
+Fluorescent microscopy
+60
+15
+7
+14
+Fluorescent antibody tests
+60
+15
+7
+15
+Gel diffusion tests
+60
+15
+7
+16
+Haemotological investigative tests
+60
+15
+7
+17
+Seminal assays
+60
+15
+7
+18
+Special biochemical and nutritional tests
+60
+15
+7
+19
+Immunoglobulin, immunoelectrophoresis, ELISA
+60
+15
+7
+20
+Complement quantitation
+60
+15
+7
+Group F
+21
+Quantitative biochemical analysis (Cat. A)
+30
+10
+5
+22
+Cytological examinations of clinical specimens
+30
+10
+5
+23
+Extra-routine haematological tests
+30
+10
+5
+24
+Culture of clinical specimens
+30
+10
+5
+25
+Immunological techniques
+(agglutination, Flocculation, haemolysis, etc.)
+30
+10
+5
+26
+Antibiotic sensitivity
+30
+10
+5
+Group G
+27
+Light microscopy
+15
+5
+2
+28
+Routine haemotological tests
+15
+5
+2
+29
+Seminal examination (normal tests)
+15
+5
+2
+30
+Quantitative biochemical analysis (Cat. B)
+15
+5
+2
+Group H
+31
+Quantitative/qualitativef biochemical analysis
+10
+2
+1
+No.
+Type of investigation
+First Class (RM)
+Second Class (RM)
+Third Class (RM)
+CARDIOLOGICAL INVESTIGATION
+1
+Electrocardiography
+45
+10
+5
+2
+Exercise tests
+150
+40
+20
+3
+Holter
+150
+40
+20
+4
+Echocardiogram
+150
+40
+20
+5
+Cardiac catheterisation and angiography
+375
+100
+50
+OPHTHALMOLOGICAL INVESTIGATION
+6
+Perimetry/scotometry
+30
+8
+4
+7
+Fluoresceine fundus angiografi/iris angiography
+90
+24
+12
+8
+Test for binocular vision
+45
+12
+6
+9
+Refraction with or without prescription of glasses
+30
+8
+4
+NEUROLOGICAL INVESTIGATION
+10
+Electroencephalography
+60
+15
+5
+EAR, NOSE AND THROAT INVESTIGATION
+Audiometry
+11
+Pure tone audiometry
+15
+10
+10
+12
+Bekesy
+15
+10
+10
+13
+Impedance
+15
+10
+10
+14
+Others (SISI, Tone, Decay Free Field)
+15
+10
+10
+15
+Calorimetry
+15
+10
+10
+No.
+Type of treatment
+First Class (RM)
+Second Class (RM)
+Third Class (RM)
+Outpatient (RM)
+1
+Topical fluoride (per arch)
+15
+10
+Free
+5
+2
+Fissure sealant (per tooth)
+15
+10
+Free
+5
+3
+Full mouth scaling and polishing
+110
+80
+Free
+55
+4
+Extraction permanent tooth/supernumerary/ retained root
+25
+20
+Free
+15
+5
+Extraction deciduous (per tooth)
+20
+15
+Free
+10
+6
+Surgical removal (per tooth/simple impacted tooth/retained root)
+225
+80
+15
+40
+7
+Surgical removal of impacted tooth (per tooth) (complex)
+1200
+400
+50
+200
+8
+Control of post extraction haemorrhage
+40
+30
+Free
+20
+9
+Post-extraction complication
+15
+10
+Free
+5
+10
+Gingival operculectomy
+20
+15
+Free
+10
+11
+Dental wiring (per arch)
+40
+30
+Free
+20
+12
+Restoration of permanent tooth (one surface)
+40
+30
+Free
+20
+13
+Permanent tooth restoration (multiple surfaces/with pin retention)
+50
+40
+Free
+25
+14
+Deciduous tooth restoration
+20
+15
+Free
+10
+15
+Temporary restoration
+20
+15
+Free
+10
+16
+Inlay (per tooth) (not inclusive of metal charge)
+60
+45
+Free
+30
+17
+Crown (per tooth) (including temporary crown but not inclusive of metal charge)
+100
+75
+Free
+50
+18
+Bridge (per abutment teeth including provisional restoration but not inclusive of material and lab charges)
+100
+75
+Free
+50
+19
+Root canal treatment (anterior tooth)
+75
+60
+Free
+40
+20
+Root canal treatment
+(posterior tooth)
+150
+115
+Free
+75
+21
+Apexification (per tooth)
+100
+75
+Free
+50
+22
+Arrest of tooth resorption (per tooth)
+75
+60
+Free
+40
+23
+Coronal pulpotomy (per permanent tooth)
+75
+60
+Free
+40
+24
+Pulpotomy (per deciduous tooth)
+75
+60
+Free
+40
+25
+Pulpectomy (per deciduous tooth)
+100
+75
+Free
+50
+26
+Pulp extirpation (per tooth)
+25
+20
+Free
+15
+27
+Tooth bleaching (external) (per arch)
+0
+0
+0
+500
+28
+Tooth bleaching (internal) (per tooth)
+0
+0
+0
+50
+29
+Microabrasion (per tooth)
+0
+0
+0
+50
+30
+Desensitisation (per arch)
+0
+0
+0
+25
+31
+Full denture construction not inclusive of metal (per jaw)
+225
+170
+25
+110
+32
+Partial denture construction not inclusive of metal (per jaw)
+100
+75
+5
+50
+33
+Addition of each acrylic tooth
+15
+10
+1
+5
+34
+Denture repair without changing the base plate
+35
+30
+1
+20
+35
+Denture repair (addition of each acrylic tooth)
+15
+10
+1
+5
+36
+Relining/rebasing (per denture)
+60
+45
+Free
+30
+37
+Impression for working model
+(per set)
+0
+0
+0
+40
+38
+Soft splint
+25
+20
+Free
+15
+39
+Hard splint
+100
+75
+Free
+50
+40
+Other splint
+25
+20
+Free
+10
+41
+Dental appliances or obturators
+42
+Small
+115
+30
+15
+15
+43
+Medium
+150
+40
+20
+20
+44
+Large
+190
+50
+25
+25
+45
+Fixed appliance (per arch)
+0
+0
+0
+500
+46
+Partial fixed appliance (per arch)
+0
+0
+0
+300
+47
+Removable appliance
+(passive)(per arch)
+0
+0
+0
+100
+48
+Removable appliance
+(active)(per arch)
+0
+0
+0
+200
+49
+Fixed functional appliance
+0
+0
+0
+1000
+50
+Removable functional appliance
+0
+0
+0
+400
+51
+Fixed appliance components replacement (per component)
+0
+0
+0
+25
+52
+Repair of removable appliance component
+0
+0
+0
+25
+53
+Repair of broken appliance (all types of removable appliances/obturator)
+0
+0
+0
+10
+54
+Removable functional appliance (repair)
+0
+0
+0
+50
+55
+Orthodontic auxiliary
+0
+0
+0
+100
+56
+Transpalatal arch
+0
+0
+0
+100
+57
+Lingual arch
+0
+0
+0
+100
+58
+Transpalatal arch (each repair)
+0
+0
+0
+50
+59
+Lingual arch (each repair)
+0
+0
+0
+50
+60
+Transpalatal arch (each re- cementation)
+0
+0
+0
+50
+61
+Lingual arch (each re- cementation)
+0
+0
+0
+50
+62
+Removable space maintainer
+(per arch)
+0
+0
+0
+100
+63
+Fixed retainer (per arch)
+0
+0
+0
+100
+64
+Essix retainer
+0
+0
+0
+100
+65
+Fixed retainer (repair per tooth)
+0
+0
+0
+50
+66
+Fixed retainer (debond per arch)
+0
+0
+0
+100
+67
+Temporary anchorage devices
+(per device)
+0
+0
+0
+150
+68
+Gold chain for impacted tooth
+0
+0
+0
+400
+69
+Traction chain for minor tooth movement (per tooth)
+0
+0
+0
+50
+70
+Palatal expander treatment
+0
+0
+0
+100
+71
+Headgear treatment
+0
+0
+0
+100
+DENTAL INVESTIGATION
+Dental tests
+72
+Pulp vitality per tests
+15
+15
+Free
+73
+Diagnostic cast
+40
+40
+Free
+74
+Caries susceptibility per test
+5
+5
+Free
+Ward Charges
+Type Of Test
+Type Of Treatment
+Ward Charges
+No.
+Class
+Charge Per Day (RM)
+1
+One bedded room
+320
+2
+Two bedded room
+240
+3
+Three bedded room or more
+200
+4
+Second Class
+180
+5
+Third Class
+160
+6
+ICU/CCU/CRW
+360
+EXECUTIVE WARD
+No.
+Class
+Charge Per Day (RM)
+1
+One bedded room (VIP)
+500
+2
+One bedded room
+400
+3
+Two bedded room
+300
+INPATIENT CHARGES
+No.
+Class
+Charge Per Day (RM)
+1
+All Ward Class
+100
+List of Test For Foreign Patient
+NO.
+TYPE OF TEST
+PRICE (RM)
+1
+17- OXOSTEROIDS
+30.00
+2
+17-OXOGENIC STEROIDS
+30.00
+3
+2HOUR POST PARANDIAL
+20.00
+4
+5-HYDROXY INDOLES TOTAL
+20.00
+5
+ALPHA ANTITRYPSIN
+60.00
+6
+AMINO ACID BY TLC SCREENING
+100.00
+7
+AMINO ACID BY TLC (URINE)
+100.00
+8
+BLOOD GASES
+65.00
+9
+ABO + GROUPING (ANTI D ONLY)
+20.00
+10
+ACID PHOSPHATASE
+70.00
+11
+ACETONE
+5.00
+12
+ACTH STIMULATION TEST
+50.00
+13
+ANTIGEN DETECTION SPECIFIC PATHOGENS
+20.00
+14
+ACID FAST BACILLUSS (AFB) CULTURE
+45.00
+15
+SMEAR FOR ACID FAST BACILII
+40.00
+16
+ALFA-FETOPROTEIN (AFP)
+70.00
+17
+ANTI-ANTIBODIES/HAEMAGGLUTINATION TEST
+20.00
+18
+ACQUIRED IMMUNODEFICIENCY SYNDROME (HIV ANTIBODY)
+60.00
+19
+ALBUMIN (BLOOD)
+10.00
+20
+ALBUMIN (URINE )
+10.00
+21
+ALDOSTERONE
+84.00
+22
+ALKALINE PHOSPHATASE (ALP)
+30.00
+23
+ALLERGY SKIN TEST
+70.00
+24
+ALANINE TRANSAMINASE
+10.00
+25
+AMMONIA
+60.00
+26
+AMYLASE
+20.00
+27
+ANTENATAL SCREENING
+58.00
+28
+ANTINUCLEAR FACTOR (ANF)
+40.00
+29
+RHESUS GROUPING (ANTI D ONLY)
+20.00
+30
+ANTI STREPTOLYSIN O TITRE (ASOT)
+30.00
+31
+ASPARTATE TRANSAMINASE
+10.00
+32
+AUGMENTIN HISTAMINE TEST
+50.00
+33
+VITAMIN B12
+40.00
+34
+BACTERIOLOGICAL STERILITY TEST
+60.00
+35
+BARBITURATE
+60.00
+36
+BARBITURATE (SERUM)
+110.00
+37
+BARBITURATE (URINE)
+110.00
+38
+BETA CAROTENE
+10.00
+39
+BICARBONATE
+10.00
+40
+MALARIA PARASITE
+15.00
+41
+BETA HUMAN CHORIONIC GANADOTROPIN (BETA HCG)
+60.00
+42
+BILIRUBIN
+20.00
+43
+BILE PIGMENT
+8.00
+44
+BENCE JONES PROTEIN
+10.00
+45
+ELECTROPHORESIS (FOR BENCE JONES PROTEIN)
+30.00
+46
+SPECTROSCOPY, BLOOD PIGMENT
+10.00
+47
+BRUCELLA AGGLUTINATION TEST
+20.00
+48
+BRONCHIAL BRUSHING CYTOLOGY
+30.00
+49
+BRONCHIAL LAVAGE/WASHING CYTOLOGY
+30.00
+50
+BRAMSULPHATHELEIN EXCRETION TEST
+30.00
+51
+BLEEDING TIME
+10.00
+52
+BLOOD UREA,NITROGEN
+10.00
+53
+BLOOD UREA SERUM ELEKTROLYTES (BUSE)
+38.00
+54
+COMPLEMENT C3
+50.00
+55
+COMPLEMENT C4
+50.00
+56
+CALCIUM
+20.00
+57
+CANNABINOIDS
+50.00
+58
+COLD AGGLUTIN/CRYOGLOBULIN TITRE
+125.00
+59
+CATHECOLAMINE
+180.00
+60
+CARDIAC ENZYMES
+48.00
+61
+CARCINO EMBRYONIC ANTIGEN (CEA)
+55.00
+62
+COMPLEMENT FIXATION TEST
+20.00
+63
+CHROMOSOMAL ANALYSIS
+600.00
+64
+CHOLINESTERASE
+20.00
+65
+CHLAMYDIAL IMMUNOGLOBULIN G (IGG)
+75.00
+66
+CHLAMYDIAL IMMUNOGLOBIN G (IGG) ANTIBODY
+95.00
+67
+CHLAMYDIAL (SCREENING)
+40.00
+68
+CHOLESTEROL (TOTAL)
+20.00
+69
+CARDIAC ISOENZYME (CK)
+50.00
+70
+CREATINE KINASE (CK)
+20.00
+71
+CREATINE KINASE-MUSCLE BOUND (CK-MB)
+55.00
+72
+CHLORIDE
+10.00
+73
+CLOT TEST
+45.00
+74
+CULTURE OF CLINICAL SPECIMEN (EG. TISSUE CULTURE, ANIMAL INNOCULATION)
+40.00
+75
+PUS SWAB CULTURE & SENSITIVITI
+40.00
+76
+COOMB TEST DIRECT
+55.00
+77
+COOMB TEST INDIRECT
+54.00
+78
+COPPER
+70.00
+79
+CORTISOL AM
+55.00
+80
+CORTISOL PM
+55.00
+81
+CORTISOL
+55.00
+82
+COAGULATION PROFILE
+115.00
+83
+C-PEPTIDE 3 SPECIMEN
+180.00
+84
+CREATINE
+20.00
+85
+CREATININE
+35.00
+86
+CREATININE PHOSPHATE
+35.00
+87
+C REACTIVE PROTEIN - QUANTITATIVE
+60.00
+88
+CAERULOPLASMIN
+50.00
+89
+CORTISOL PROFILE
+55.00
+90
+CRYOGLOBULIN
+120.00
+91
+CRYOPRECIPITATE
+20.00
+92
+CEREBROSPINAL FLUID CYTOLOGY
+30.00
+93
+CEREBRO-SPINAL FLUID (CSF) ROUTINE
+50.00
+94
+CSF BIOCHEMISTRY
+20.00
+95
+SPECIFIC PROTEIN CSF (EG IMMUNOGLOBULIN)
+30.00
+96
+CEREBRO-SPINAL FLUID CULTURAL & SENSITIVITY
+40.00
+97
+CLOTTING TIME
+10.00
+98
+CYSTINE
+5.00
+99
+ASPIRATE FOR CYLOLOGY
+100.00
+100
+CYSTIC FLUID CYTOLOGY
+30.00
+101
+CYTOLOGI PERITONEAL FLUID
+30.00
+102
+CYTOLOGICAL EXAMINATION OF CLINICAL SPECIMEN :
+30.00
+103
+GASTRIC BRUSHING CYTOLOGY
+30.00
+104
+GASTRIC LAVAGE CYTOLOGY
+30.00
+105
+NIPPLE DISCHARGE CYTOLOGY
+30.00
+106
+OESOPHAGEAL BRUSHING CYTOLOGY
+40.00
+107
+OTHERS BRUSHING CYTOLOGY
+30.00
+108
+OTHERS CYTOLOGY
+30.00
+109
+PERICARDIAL FLUID CYTOLOGY
+30.00
+110
+PERITONEAL/ASCITIC FLUID CYTOLOGY
+30.00
+111
+PLEURAL FLUID CYTOLOGY
+30.00
+112
+SPUTUM CYTOLOGY
+30.00
+113
+SYNOVIAL FLUID CYTOLOGY
+30.00
+114
+URINE CYTOLOGY
+30.00
+115
+DELTA AMINO LEAVULINIC ACID URINE
+70.00
+116
+BILIRUBIN CONJUGATED
+10.00
+117
+DENGUE FEVER STUDY
+160.00
+118
+DIFFERENTIAL COUNT
+10.00
+119
+DEHYDROEPIANDROSTERONE SULPHATE (DHEAS)
+70.00
+120
+DIASTASE
+10.00
+121
+DIBUCAINE NUMBER
+20.00
+122
+DRUG ANALYSIS (PER DRUG)
+30.00
+123
+DIRECT SMEAR (GRAIN STAIN)
+30.00
+124
+HAEMAGGLUTINATION INHIBITION TEST (DENGGUE SEROLOGY)
+60.00
+125
+ANTI-DNA ANTIBODY (ANTI DSDNA)
+108.00
+126
+DEXAMETHASONE SUPPRESION TEST
+50.00
+127
+OESTRADIOL
+48.00
+128
+ELECTRONE MICROSCOPY
+250.00
+129
+T & B CELL ENUMERATION
+100.00
+130
+ERYTHROCYTE TRANSKETOLASE & TPP EFFECT
+20.00
+131
+ERYTHROCYTE SEDIMENTATION RATE (ESR)
+20.00
+132
+COAGULATION FACTOR ANTI-XA
+50.00
+133
+COAGULATION FACTOR IX ACTIVITY
+50.00
+134
+COAGULATION FACTOR IX ANTIGEN
+215.00
+135
+COAGULATION FACTOR V ANTIGEN
+50.00
+136
+COAGULATION FACTOR V LEIDEN MUTATION
+215.00
+137
+COAGULATION FACTOR VII ACTIVITY
+215.00
+138
+COAGULATION FACTOR VII ANTIGEN
+50.00
+139
+COAGULATION FACTOR VII INHIBITORS
+50.00
+140
+COAGULATION FACTOR VIII ACTIVITY
+215.00
+141
+COAGULATION FACTOR VIII ANTIGEN
+50.00
+142
+COAGULATION FACTOR VIII INHIBITORS
+215.00
+143
+COAGULATION FACTOR X  ANTIGEN
+50.00
+144
+COAGULATION FACTOR X ACTIVITY
+215.00
+145
+COAGULATION FACTOR XI ACTIVITY
+215.00
+146
+COAGULATION FACTOR XI ANTIGEN
+50.00
+147
+COAGULATION FACTOR XI INHIBITORS
+50.00
+148
+COAGULATION FACTOR XII ACTIVITY
+215.00
+149
+COAGULATION FACTOR XII ANTIGEN
+50.00
+150
+COAGULATION FACTOR XIII ACTIVITY
+450.00
+151
+COAGULATION FACTOR XIII CLOT LYSIS TEST/
+50.00
+152
+FULL BLOOD COUNT
+40.00
+153
+FULL BLOOD PICTURE
+80.00
+154
+URINE FEME
+40.00
+155
+SPUTUM FEME
+20.00
+156
+STOOL FEME
+20.00
+157
+PUUS FEME
+20.00
+158
+FERRITIN
+130.00
+159
+FAECAL FAT
+30.00
+160
+FIBRINOGEN
+80.00
+161
+FIBRINOGEN (IMMUNO METHOD)
+115.00
+162
+HDL & LDL CHOLESTEROLE (PAKEJ)
+40.00
+163
+FLOURESCENT MICROSCOPY
+30.00
+164
+SERUM FOLATE
+30.00
+165
+FILTERED RBC
+600.00
+166
+FOLATE RBC
+40.00
+167
+FOLLICLE STIMULATING HORMONE (FSH)
+60.00
+168
+FREE TYROXINE INDEX
+35.00
+169
+FRUCTOSAMINE
+45.00
+170
+GLUCOSE-6-PHOSPHTE DEHYDROGENASE (G6PD)  SCREENING TEST
+20.00
+171
+GASTRIC FUNCTION TEST
+50.00
+172
+GENTAMYCIN
+30.00
+173
+GLUCOSE FASTING BLOOD SUGAR
+20.00
+174
+GAMMA GLUTAMINE TRANSFERASE
+30.00
+175
+GROWTH HORMONE
+78.00
+176
+GLOBULIN
+18.00
+177
+GLUCOSE
+10.00
+178
+GLUCOSTIX
+62.00
+179
+GENTAMICIN, PEAK
+30.00
+180
+GENTAMICIN, RANDOM
+30.00
+181
+GROUP SCREEN & HOLD (GSH)
+68.00
+182
+GENTAMICIN, TROUGH
+30.00
+183
+GLUCOSE TOLERANCE TEST
+50.00
+184
+BLOOD GROUP AND CROSS MATCHING
+11.00
+185
+GROUP & CROSSMATCH (GXM)
+11.00
+186
+HAPTOGLOBIN
+50.00
+187
+HEPATITIS A VIRUS IMMUNOGLOBULIN G ANTIBODY (HAV IGG AB)
+50.00
+188
+HEPATITIS A VIRUS IMMUNOGLOBULIN M ANTIBODY (HAV IGM AB)
+78.00
+189
+HAEMOGLOBIN (HB)
+10.00
+190
+HB ANALYSIS
+60.00
+191
+HAEMOGLOBIN A I C (HBA1C)
+60.00
+192
+HYDROXY BUTYRATE DEHYDROGENASE
+35.00
+193
+HAEMOGLOBIN ELECTROPHORESIS
+60.00
+194
+HEPATITIS B E ANTIBODY (HBV E AB)
+60.00
+195
+HAEMOGLOBIN & ALLIED PIGMENT
+5.00
+196
+HEPATITIS B SURFACE ANTIBODY (HBS AB)
+60.00
+197
+HEPATITIS B SURFACE ANTIGEN (HBS AG)
+60.00
+198
+HEPATITIS C (ANTIBODY)
+70.00
+199
+HUMAN CHORIONIC GONADOTROPIN (HCG)
+60.00
+200
+HEPATITIS C VIRUS IMMUNOGLOBULIN M (HVC IGM AB)
+80.00
+201
+HEPATITIS C VIRUS IMMUNOGLOBULIN G (HCV IGG AB)
+60.00
+202
+HIGH DENSITY LIPOPROTEIN (HDL) CHOLESTEROL
+20.00
+203
+HIGH DENSITY LIPOPROTEIN CONCENTRATION
+20.00
+204
+HEPATITIS E (ANTIGEN)
+60.00
+205
+TEST FOR HEMOLYSIN
+10.00
+206
+ELISA FOR HEPATITIS A VIRUS
+30.00
+207
+MERCURY
+125.00
+208
+5-HYDROXYINDOLEACETIC ACID (5-HIAA)
+100.00
+209
+HIV  ANTIGEN TEST
+50.00
+210
+HIV ANTIBODY CONFIRMATION TEST
+150.00
+211
+TISSUE TYPING (HLA-A AND B)
+360.00
+212
+HLA-B27
+291.00
+213
+TISSUE TYPING (HLA-DR AND DO)
+360.00
+214
+HOMOGENTISIC ACID
+5.00
+215
+HYDROXYPROLINE
+30.00
+216
+HISTOPATOLOGY EXAMINATION TYPE A(LARGE SPECIMENS)
+125.00
+217
+HISTOPALOGY EXAMINATION TYPE B(MEDIUM SPECIMENS)
+100.00
+218
+HISTOPALOGY EXAMINATION TYPE C(SMALL SPECIMENS)
+80.00
+219
+HERPES SIMPLEX TYPE 1 IMMUNOGLOBIN G
+54.00
+220
+HERPES SIMPLEX TYPE 2 IMMUNOGLOBIN G
+60.00
+221
+BILIRUBIN UNCONJUGATED
+10.00
+222
+PROTEIN ELECTROPHORESIS
+65.00
+223
+ELECTROPHORESIS PROTEIN
+72.00
+224
+IMMUNOELECTROPHORESIS
+30.00
+225
+IMMUNOFIXATION
+30.00
+226
+IMMUNOGLOBULIN A (QUANTITIVE)
+30.00
+227
+IMMUNOGLOBULIN E (QUANTITIVE)
+30.00
+228
+IMMUNOGLOBULIN G (QUANTITIVE)
+30.00
+229
+IMMUNOGLOBULIN M (QUANTITIVE)
+30.00
+230
+INDIRECT IMMUNOPEROXIDASE TEST
+30.00
+231
+IMMUNOLOGICAL TECHNIQUES (AGGLUTINATION, FLOCCULATION, HEMOLYSIS)
+20.00
+232
+SCREENING TEST FOR THE PRESENCE OF INHIBITORS TO COAGULATION FACTORS
+50.00
+233
+IRON SERUM
+25.00
+234
+ELECTROLYTES
+30.00
+235
+ISOENZYME STUDIES
+50.00
+236
+POTASSIUM
+10.00
+237
+KETONE  BODIES
+40.00
+238
+KLEIHAURS TEST
+60.00
+239
+LANGE'S COLLOIDAL GOLD CURVE
+30.00
+240
+LACTATE DEHYDROGENASE
+15.00
+241
+LACTIC DEHYDROGENASE
+15.00
+242
+LOW DENSITY LIPOPROTEIN (LDL)
+40.00
+243
+LUPUS ERYTHEMATOUS CELLS (LE CELL)
+15.00
+244
+LEAD
+55.00
+245
+LIVER FUNCTION TEST
+100.00
+246
+IFA TEST FOR LEGIONELLA AB
+30.00
+247
+LEUTEINISING HORMONE (LH)
+42.00
+248
+LITHIUM
+38.00
+249
+LIGHT MICROSCOPY
+10.00
+250
+LIPID PROFILE (CHOLESTREOLE, TRYGLICERIDES)
+48.00
+251
+LIPOPROTEIN ELECTROPHORESIS
+270.00
+252
+LYSOZYME SERUM
+20.00
+253
+MAGNESIUM
+15.00
+254
+MANTOUX TEST
+15.00
+255
+MEAN CORPUSCULAR HAEMOGLOBIN (MCH)
+6.00
+256
+MEAN CORPUSCULAR HAEMOGLOBIN CONCENTRATION (MCHC)
+6.00
+257
+MENSTRUAL CYCLE STUDY
+135.00
+258
+MEAN CORPUSCULAR VOLUME (MCV)
+6.00
+259
+MENOPAUSAL HORMONE STUDIES
+120.00
+260
+MICROBIOLOGICAL ANALYSIS OF WATER, MILK, ICE CREAM, OTHER FOODS
+50.00
+261
+MICS OF ANTIBIOTICS
+50.00
+262
+MONOSPOT TEST
+30.00
+263
+MORPHINE/CANNABINOIDS
+80.00
+264
+MUCOPOLYSACCHARIDES
+70.00
+265
+MYEGLOBIN
+10.00
+266
+CULTURE OF MYCOPLASMA
+20.00
+267
+SODIUM
+20.00
+268
+NUCLEAR SEXING(BUCCAL SMEAR)
+35.00
+269
+OCCULT BLOOD
+16.00
+270
+OROSAMUCOID
+30.00
+271
+OSMOTIC FRAGILITY TEST
+60.00
+272
+OSMOLALITI
+20.00
+273
+PARTICLE AGGLUTINATION FOR MYCOPLASMA
+20.00
+274
+PARAPROTEIN (SERUM ELEKTROPHORESIS)
+100.00
+275
+PERIPHERAL BLOOD FILM
+20.00
+276
+PACK CELL
+20.00
+277
+PARACETAMOL
+50.00
+278
+PCO2
+10.00
+279
+HAEMATOCRIT PACK CELL VOLUME (PCV)
+20.00
+280
+PACK CELL VOLUME (PCV) (HAEMATOCRIT VALUE)
+20.00
+281
+PHAGOCYTIC FUNCTION TEST
+100.00
+282
+PH URINE, BLOOD, FLUID
+10.00
+283
+PHOSPATE INORGANIC
+11.00
+284
+PHOSPHOROUS
+15.00
+285
+URINE CONCENTRATION TEST (PITRESSIN TEST)
+30.00
+286
+PLATELET AGREGATION TEST
+105.00
+287
+PLATELET COUNT
+10.00
+288
+PLATELET CONCENTRATION
+20.00
+289
+TEST FOR PLATELET ANTIBODIES
+170.00
+290
+PO2
+10.00
+291
+PHOSPATE
+20.00
+292
+PORPHYRINOGEN
+10.00
+293
+PORPHYRIN
+30.00
+294
+PARAQUAT
+30.00
+295
+PROLACTIN
+40.00
+296
+PREGNANTRIOL
+30.00
+297
+PROGESTERONE
+70.00
+298
+PROTHROMBIN TIME (PT)
+30.00
+299
+PHENYLKETONES
+10.00
+300
+PYRUVATE
+30.00
+301
+PYRUVATE KINASE
+30.00
+302
+RED BLOOD CELL (BLOOD)
+20.00
+303
+RED BLOOD CELL(URINE)
+5.00
+304
+RIBOFLAVIN
+30.00
+305
+RANDOM BLOOD SUGAR
+20.00
+306
+SUGAR PROFILE
+30.00
+307
+RED CELL FOLATE
+20.00
+308
+RETICULOCYTE COUNT
+40.00
+309
+RHEUMATIOD ARTHRITIS FACTOR (RA FACTOR)
+40.00
+310
+RH ANTIBODY SCREENING
+52.00
+311
+ALCOHOL
+50.00
+312
+RENAL PROFILE
+80.00
+313
+RUBELLA ANTIBODY
+50.00
+314
+RUBELLA IMMUNOGLOBULIN G ANTIBODY
+50.00
+315
+RUBELLA IMMUNOGLOBULIN M ANTIBODY
+80.00
+316
+ANTIBIOTIC SENSITIVITY
+50.00
+317
+SEMINAL ASSAY
+30.00
+318
+SP ABDOMINAL WALL
+80.00
+319
+SP ADRENAL
+80.00
+320
+SALICYLATE
+50.00
+321
+SP ANUS
+80.00
+322
+SP APPENDIX
+80.00
+323
+STERCOBILINOGEN
+5.00
+324
+SP BARTOLIN'S GLAND
+80.00
+325
+SP BONE
+80.00
+326
+SP BRONCHUS
+80.00
+327
+SP BRAIN AND SPINAL CORD
+80.00
+328
+SP BREAST
+80.00
+329
+SP BACK AND VERTEBRAL COLUMN
+80.00
+330
+SP CHEST
+80.00
+331
+SUGAR CHROMATOGRAPHY URINE
+30.00
+332
+SP COLON
+80.00
+333
+SP CERVIX
+80.00
+334
+SCHUMN'S TEST
+10.00
+335
+SP CARDIAC VALVE
+80.00
+336
+SEMINAL EXAMINATION
+30.00
+337
+SP EAR
+80.00
+338
+SP EXTRA HEPATIC DUCT
+80.00
+339
+SP ENDOMETRIAL
+80.00
+340
+SP ENDOCARDIUM
+80.00
+341
+SP EYE/EYE APPENDAGES
+80.00
+342
+SEMINAL ANALYSIS
+30.00
+343
+SERUM FERRITIN
+20.00
+344
+SP  FALLOPIAN TUBE
+80.00
+345
+SPECIFIC GRAVITY
+5.00
+346
+SP GALL BLADDER
+80.00
+347
+SP SMALL BOWEL
+80.00
+348
+SP HEAD
+80.00
+349
+SP HEART
+80.00
+350
+SP JOINT
+80.00
+351
+SP KIDNEY
+80.00
+352
+SP LOWER EXTREMITY
+80.00
+353
+SP LUNG
+80.00
+354
+SP LIP
+80.00
+355
+SP LIVER
+80.00
+356
+SP LYMPH NODE
+80.00
+357
+SP LARYNX
+80.00
+358
+SP MUSCLE
+80.00
+359
+SP MENINGES
+80.00
+360
+SP MANDIBLE AND MAXILLA
+80.00
+361
+SP MEDIASTINUM
+80.00
+362
+SP MYOCARDIUM
+80.00
+363
+SP MYOMETRIUM
+80.00
+364
+SP NASAL CAVITY AND PARASINUS
+80.00
+365
+SP NECK
+80.00
+366
+SP NASOPHARYNX
+80.00
+367
+SP ORAL CAVITY AND OROPHARYNX
+80.00
+368
+SP OESOPHAGUS
+80.00
+369
+SP OMENTUM
+80.00
+370
+SP OVARY
+80.00
+371
+SP PANCREAS & AMPULLARY REGION
+80.00
+372
+SP PERICARDIUM
+80.00
+373
+SP PELVIS AND SACRAL
+80.00
+374
+SP PENIS AND SCROTUM
+80.00
+375
+SP PARAGANGLION
+80.00
+376
+SP PLEURAL
+80.00
+377
+SP PLACENTA
+80.00
+378
+SP PRODUCT OF CONCEPTION
+80.00
+379
+SP PROSTATE AND SEMINAL VESICLE
+80.00
+380
+SP PARATHYROID
+80.00
+381
+SP PERITONEUM
+80.00
+382
+SP RECTUM
+80.00
+383
+SP RETROPERITONEUM
+80.00
+384
+SP SKIN
+80.00
+385
+SP SALIVARY GLAND
+80.00
+386
+SP SPLEEN
+80.00
+387
+SP SOFT TISSUE
+80.00
+388
+SP STOMACH
+80.00
+389
+SP TESTIS AND TESTICULAR ADNEXAE
+80.00
+390
+SP THYMUS
+80.00
+391
+SP THYROID
+80.00
+392
+SP TONGUE
+80.00
+393
+SP TONSIL/ADENOID
+80.00
+394
+STONES ANALYSIS
+62.00
+395
+SP TRACHEA
+80.00
+396
+SP URINARY BLADDER
+80.00
+397
+SP UPPER EXTREMITY
+80.00
+398
+SUGAR
+5.00
+399
+SP URETER
+80.00
+400
+SP URETHRA
+80.00
+401
+SP UTERUS
+80.00
+402
+SP VAGINA
+80.00
+403
+SP VESSEL
+80.00
+404
+SP VULVA
+80.00
+405
+THYROXINE 3 (T3)
+60.00
+406
+THYROXINE 4 (T4)
+40.00
+407
+BILIRUN (TOTAL)
+20.00
+408
+THERAPEUTIC DRUG MONITORING (TDM)
+10.00
+409
+OESTROGEN TOTAL
+30.00
+410
+TESTOSTERONE
+45.00
+411
+THYROID PROFILE
+65.00
+412
+THRIGLYCERIDES
+40.00
+413
+TRIGLYCERIDES
+40.00
+414
+THIAMIN
+30.00
+415
+TOTAL IRON BINDING CAPACITY (TIBC)
+30.00
+416
+SUGAR BY TLC
+30.00
+417
+PROTEIN (TOTAL) PLASMA
+65.00
+418
+TREPONEMA PALLIDUM (TPHA) HEMAGGLUTINATION
+30.00
+419
+TRANSFERRIN
+90.00
+420
+TOTAL RBC
+10.00
+421
+SMEAR WET PREPARATION TRICOMONAS/MONILIS
+10.00
+422
+THYROID SIMULATING HORMONE (TSH)
+60.00
+423
+THYROID UPTAKE
+40.00
+424
+TOTAL WHITE BLOOD CELL COUNT (TWBC)
+10.00
+425
+TOTAL WHITE AND DIFFERENTIAL COUNT (TWDC)
+10.00
+426
+URIC ACID
+20.00
+427
+URIC ACID (URATES)
+20.00
+428
+URINE ANTENATAL
+58.00
+429
+CREATININE CLEARANCE TEST
+35.00
+430
+URINE CREATININE
+30.00
+431
+UREA CLEARANCE TEST
+30.00
+432
+PREGNANCY TEST SEMI QUANTITATIVE/ QUALITATIVE)
+40.00
+433
+UREA
+10.00
+434
+UROBILINOGEN
+20.00
+435
+UROBILIN
+10.00
+436
+URINE PROTEIN
+30.00
+437
+PROTEIN (TOTAL) URINE
+30.00
+438
+VENEREAL DISEASE RESEARCH LABORATORY (VDRL)
+30.00
+439
+VDRL FLOCCULATION TEST
+20.00
+440
+VITAMIN A
+20.00
+441
+ASCORBIC ACID
+20.00
+442
+3-METHYOXY-4-HYDROXY-MANDELIC ACID (HMMA/VMA) (URINE)
+30.00
+443
+VON WILLEBRAND FACTOR ASSAY (ELIZA)
+66.00
+444
+WIDAL AGGLUTINATION TEST
+30.00
+445
+WHITE BLOOD CELL
+10.00
+446
+WEIL FELIX AGGLUTINATION TEST
+20.00
+447
+WASH RBC
+100.00
+448
+WIDAL WEIL FELIX
+30.00
+449
+XYLOSE ABSORPTION TEST
+30.00
+Type of Treatment For Foreigner
+Public
+Last Updated: 14 December 2023
+Hits: 98166
+CONTACT US
+Address
+Hospital Kuala Lumpur
+50586 Jalan Pahang
+Wilayah Persekutuan Kuala Lumpur.
+Phone :
+03-26155555
+E-Mail :
+pro.hkl[at]moh.gov.my
+VISITING HOURS
+12.30 p.m - 2.00 p.m
+4.30 p.m - 6.30 p.m
+AGENCY
+KKM
+JPA
+JDN
+MOF
+BASIC INFORMATION
+Clinic Schedule
+Navigation Portal
+Hospital Charges
+Facilities
+Disclaimer
+|
+Privacy Policy
+|
+S
+ecurity Policy
+Copyright © 2024 - Hospital Kuala Lumpur.
+Best view with Web browser Google Chrome / Mozilla Firefox / Microsoft Edge with minimal latest version 1600px x 900px
+Last Modified: Wednesday 29 April 2026.
+Search
+HOME
+ABOUT US
+Director's Message
+700 DAYS ACHIEVEMENT
+Introduction
+Organisation Chart
+Top Management (directory)
+HKL Quality Policy
+HKL Visiting Board Member
+Hospital Kluster Klang Valley 2
+INSTITUTION
+Hospital Tunku Azizah (HTA)
+Institut Perubatan Respiratori (IPR)
+PUBLICATION
+HKL Bulletin
+Buku 150 Tahun HKL
+Corporate Video
+Patient And Family Right
+DEPARTMENT
+Management
+Development & Privatision
+Engineering
+Human Resource
+Finance
+Procurement and Asset
+Administration
+Information Technology
+Training
+Security
+Communication Corporate
+Library
+Psychology Counselling
+Medical I
+Medical Directorate
+General Medicine
+Radiotherapy & Oncology
+Psychiatry
+Nephrology
+Neurology
+Dermatology
+Rehabilitation
+Genetics
+Wound Care
+Risk Management and Surveillance
+Risk Management and Clinical Surveillance
+Occupational Safety and Health
+Medical II
+Surgical Directorate
+Emergency & Trauma
+Anaesthesia & Intensive Care
+General Surgery
+Orthopedic & Traumatology
+Neurosurgery
+Urology
+Ophthalmology
+Otorhinolaryngology
+Plastic & Reconstructive Surgery
+Oral & Maxillofacial Surgery
+Central Sterilization Services
+Medical Policy and Clinical Service Planning
+Medical Policy and Clinical Service Planning
+Medical Professional Development
+Nursing & Medical Assistant
+Hospital Supervisory
+Nursing Service
+Medical III
+Clinical Diagnostic & Forensic Directorate
+Pathology
+Radiology
+Nuclear Medicine
+Forensic Medicine
+Clinical Support Directorate
+Pharmacy
+Dietetics & Food Services
+Medical Record
+Physiotherapy
+Occupational Therapy
+Medical Social Work
+Clinical Research Center
+Pharmacy
+Vision & Mission
+Patient Charter
+PUBLIC
+Facilities
+Clinic Schedule
+Visiting Hour
+Operating Hours For Revenue Counters
+Hospital Charges
+Medical Report
+Quotation / Tender
+STAFF
+Intranet
+ICT Tips
+Links
+CONTACT US
+Directory
+Feedback
+FAQ
+FAQ Management
+FAQ-Medical I
+FAQ Medical II
+FAQ Medical III
+sitemap

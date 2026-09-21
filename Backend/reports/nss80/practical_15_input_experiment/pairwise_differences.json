@@ -1,0 +1,62 @@
+[
+  {
+    "comparison": "15 minus 25",
+    "metric": "mae",
+    "difference": 527.0172322685576,
+    "interpretation": "worse"
+  },
+  {
+    "comparison": "15 minus 25",
+    "metric": "rmse",
+    "difference": 1034.0606239475965,
+    "interpretation": "worse"
+  },
+  {
+    "comparison": "15 minus 25",
+    "metric": "r2",
+    "difference": -0.021417108730399148,
+    "interpretation": "worse"
+  },
+  {
+    "comparison": "15 minus 25",
+    "metric": "median_absolute_error",
+    "difference": 194.53062696156485,
+    "interpretation": "worse"
+  },
+  {
+    "comparison": "15 minus 25",
+    "metric": "rmsle",
+    "difference": 0.0332702718240756,
+    "interpretation": "worse"
+  },
+  {
+    "comparison": "15 minus previous production",
+    "metric": "mae",
+    "difference": 508.3868699899904,
+    "interpretation": "worse"
+  },
+  {
+    "comparison": "15 minus previous production",
+    "metric": "rmse",
+    "difference": 1235.034215275642,
+    "interpretation": "worse"
+  },
+  {
+    "comparison": "15 minus previous production",
+    "metric": "r2",
+    "difference": -0.025534606221110145,
+    "interpretation": "worse"
+  },
+  {
+    "comparison": "15 minus previous production",
+    "metric": "median_absolute_error",
+    "difference": 265.9977416414349,
+    "interpretation": "worse"
+  },
+  {
+    "comparison": "15 minus previous production",
+    "metric": "rmsle",
+    "difference": 0.15368845212942173,
+    "interpretation": "worse"
+  }
+]

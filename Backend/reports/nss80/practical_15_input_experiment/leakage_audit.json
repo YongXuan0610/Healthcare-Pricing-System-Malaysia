@@ -1,0 +1,51 @@
+{
+  "target": "total_medical_expenditure_rs",
+  "exact_feature_count": 15,
+  "exact_ordered_features": [
+    "age_years",
+    "gender",
+    "chronic_ailment",
+    "pregnant",
+    "communicable_disease",
+    "other_ailment_last_15_days",
+    "number_of_hospitalisations",
+    "length_of_stay_days",
+    "ailment_nature",
+    "hospitalisation_treatment_nature",
+    "medical_institution_type",
+    "ward_type",
+    "place_of_hospitalisation",
+    "surgery",
+    "medicine"
+  ],
+  "known_leakage_columns": [],
+  "known_leakage_count": 0,
+  "removed_compact_features": [
+    "relation_to_household_head",
+    "marital_status",
+    "highest_education_level",
+    "health_financing_or_insurance_coverage",
+    "medical_insurance_premium_rs",
+    "other_ailment_previous_day",
+    "reason_not_using_government_public_hospital",
+    "treatment_state_code",
+    "xray_ecg_eeg_scan",
+    "other_diagnostic_tests"
+  ],
+  "hidden_defaulted_or_reconstructed_removed_features": [],
+  "payment_status_detail_used": false,
+  "service_values": {
+    "surgery": [
+      0,
+      1
+    ],
+    "medicine": [
+      0,
+      1
+    ]
+  },
+  "service_meaning": {
+    "0": "Not received",
+    "1": "Received"
+  }
+}

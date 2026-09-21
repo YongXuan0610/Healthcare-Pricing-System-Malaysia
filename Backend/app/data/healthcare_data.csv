@@ -1,0 +1,67 @@
+Hospital,Package_Name,Price_RM,Gender_Target,Age_Target,Blood_Count,Renal_Profile,Liver_Profile,Lipid_Profile,Diabetes_Screen,Thyroid_Screen,Urine_Analysis,Tumor_Markers,Chest_XRay,ECG_Resting,ECG_Stress,Ultrasound_Abdomen,Ultrasound_Pelvis,Pap_Smear,Bone_Density_Scan,Consultation_Fee
+Gleneagles,Basic Screening,551,Both,Adult,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1
+Gleneagles,Comprehensive Screening,1085,Both,Adult,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Gleneagles,Heart Screening Male,1935,Male,Adult,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Gleneagles,Heart Screening Female,2136,Female,Adult,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+Gleneagles,Women Wellness <40,1284,Female,Adult,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1
+Gleneagles,Women Wellness >40,1547,Female,Senior,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+Gleneagles,Premium Plus Male,1435,Male,Adult,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Gleneagles,Premium Plus Female,1597,Female,Adult,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+Sunway,Essential Wellness,1080,Both,Adult,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,1
+Sunway,Wellness Premium,1280,Both,Adult,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,1
+Sunway,Blood Profile Screening,250,Both,Adult,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+Sunway,Classic Package,680,Both,Adult,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,1
+Sunway,Vitality Female (<40),1380,Female,Adult,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1
+Sunway,Executive Female (>40),1780,Female,Senior,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1
+Sunway,Comprehensive Female (>40),2064,Female,Senior,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1
+Sunway,Comprehensive Male (>40),1980,Male,Senior,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1
+Sunway,Premium Cardio,1980,Both,Adult,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1
+Sunway,Premium Plus Cardio,2680,Both,Adult,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1
+Prince Court,Essential,600,Both,Adult,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1
+Prince Court,Vibrant Male (<40),900,Male,Adult,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1
+Prince Court,Vibrant Female (<40),1100,Female,Adult,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1
+Prince Court,Well Male (>40),1500,Male,Senior,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Prince Court,Well Female (>40),1650,Female,Senior,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Prince Court,Signature Male (>50),1800,Male,Senior,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Prince Court,Signature Female (>50),2050,Female,Senior,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Prince Court,Senior Well Male (>60),1150,Male,Senior,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+Prince Court,Senior Well Female (>60),1200,Female,Senior,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+Subang SJMC,Men Health Gold,760,Male,Adult,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,1
+Subang SJMC,Men Health Gold Plus,1350,Male,Adult,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1
+Subang SJMC,Men Health Diamond,2260,Male,Adult,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Subang SJMC,Senior Male Platinum,2210,Male,Senior,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+Subang SJMC,Women Health Gold,760,Female,Adult,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,1
+Subang SJMC,Women Health Gold Plus,1790,Female,Adult,1,1,1,1,1,1,1,0,1,1,0,0,0,1,0,1
+Subang SJMC,Youth Diamond (<40),2520,Female,Adult,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+Subang SJMC,Diamond (>40),3050,Female,Senior,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Subang SJMC,Diamond Plus (>40),3300,Female,Senior,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Subang SJMC,Senior Female Platinum,2540,Female,Senior,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+KPJ,Male Diamond,920,Male,Adult,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1
+KPJ,Female Diamond,920,Female,Adult,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+KPJ,Platinum Screening,530,Both,Adult,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1
+KPJ,Gold Screening,400,Both,Adult,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,1
+KPJ,Silver Screening,380,Both,Adult,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,1
+KPJ,Pearl Screening,190,Both,Adult,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,1
+KPJ,Cardiac Screening,550,Both,Adult,1,1,1,1,1,0,1,0,1,0,1,0,0,0,0,1
+KPJ,Golden Age Basic,495,Both,Senior,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1
+KPJ,Golden Age Comprehensive,795,Both,Senior,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1
+Sunway,General Consultation (Fever),150,Both,Adult,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Sunway,General Consultation (Cough/Flu),200,Both,Adult,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+KPJ,General Consultation (Fever),120,Both,Adult,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+KPJ,General Consultation (Cough/Flu),180,Both,Adult,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Prince Court,General Consultation (Fever),250,Both,Adult,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Prince Court,General Consultation (Cough/Flu),350,Both,Adult,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Subang SJMC,General Consultation (Fever),160,Both,Adult,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Subang SJMC,General Consultation (Cough/Flu),220,Both,Adult,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Gleneagles,General Consultation (Fever),180,Both,Adult,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Gleneagles,General Consultation (Cough/Flu),280,Both,Adult,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Sunway,Diabetes Follow-up,220,Both,Senior,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+KPJ,Diabetes Follow-up,180,Both,Senior,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Gleneagles,Diabetes Follow-up,250,Both,Senior,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Sunway,Hypertension Check,180,Both,Senior,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+KPJ,Hypertension Check,150,Both,Senior,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+Subang SJMC,Minor Injury (X-Ray),350,Both,Adult,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Prince Court,Minor Injury (X-Ray),450,Both,Adult,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Sunway,Antenatal Checkup,300,Female,Adult,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+KPJ,Antenatal Checkup,220,Female,Adult,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Gleneagles,Skin/Allergy Consult,180,Both,Adult,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

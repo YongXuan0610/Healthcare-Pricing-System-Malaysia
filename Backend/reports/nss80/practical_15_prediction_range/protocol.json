@@ -1,0 +1,84 @@
+{
+  "point_artifact_sha256_before": "86cfc650a2a8ddfde94d64f8b4f123b34aa6dbc99052d99fe821265f00644695",
+  "point_artifact_sha256_after": "86cfc650a2a8ddfde94d64f8b4f123b34aa6dbc99052d99fe821265f00644695",
+  "point_estimator_retrained": false,
+  "features": [
+    "age_years",
+    "gender",
+    "chronic_ailment",
+    "pregnant",
+    "communicable_disease",
+    "other_ailment_last_15_days",
+    "number_of_hospitalisations",
+    "length_of_stay_days",
+    "ailment_nature",
+    "hospitalisation_treatment_nature",
+    "medical_institution_type",
+    "ward_type",
+    "place_of_hospitalisation",
+    "surgery",
+    "medicine"
+  ],
+  "known_leakage_columns": [],
+  "seeds": [
+    152,
+    153,
+    154
+  ],
+  "partitions": {
+    "selection_train": {
+      "episodes": 52307,
+      "people": 47517
+    },
+    "selection_validation": {
+      "episodes": 13099,
+      "people": 11880
+    },
+    "interval_final_fit": {
+      "episodes": 65406,
+      "people": 59397
+    },
+    "calibration": {
+      "episodes": 14120,
+      "people": 12728
+    },
+    "coverage_audit": {
+      "episodes": 13985,
+      "people": 12729
+    },
+    "locked_test": {
+      "episodes": 23277,
+      "people": 21214
+    }
+  },
+  "all_relevant_person_overlaps": 0,
+  "locked_test_used_for_selection_or_calibration": false,
+  "iteration_selection": {
+    "quantile_05": {
+      "quantile": 0.05,
+      "selected_iterations": 1,
+      "selection_weighted_pinball_loss": 1349.3645933340904,
+      "selection_unweighted_pinball_loss": 1477.626272997939
+    },
+    "quantile_10": {
+      "quantile": 0.1,
+      "selected_iterations": 24,
+      "selection_weighted_pinball_loss": 2698.6858254873914,
+      "selection_unweighted_pinball_loss": 2957.6331817237124
+    },
+    "quantile_90": {
+      "quantile": 0.9,
+      "selected_iterations": 115,
+      "selection_weighted_pinball_loss": 6142.21033088154,
+      "selection_unweighted_pinball_loss": 6762.108201755083
+    },
+    "quantile_95": {
+      "quantile": 0.95,
+      "selected_iterations": 100,
+      "selection_weighted_pinball_loss": 4443.962472496781,
+      "selection_unweighted_pinball_loss": 5005.105530276331
+    }
+  },
+  "crossing_policy": "Quantile crossing is measured before correction. A conservative monotone envelope raises only the upper bound to the lower bound; bounds are never arbitrarily swapped.",
+  "nonnegative_policy": "SafeRegressor clips quantile predictions to zero; conformal lower bounds are clipped again after adjustment."
+}

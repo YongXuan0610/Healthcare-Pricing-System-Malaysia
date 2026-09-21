@@ -1,0 +1,19 @@
+{
+  "artifact_saved": true,
+  "artifact_reloaded": true,
+  "probe_predictions_exact_before_after_reload": true,
+  "prediction_length": 23277,
+  "expected_prediction_length": 23277,
+  "prediction_length_correct": true,
+  "nan_predictions": 0,
+  "infinite_predictions": 0,
+  "known_leakage_columns": [],
+  "exact_model_input_count": 15,
+  "exact_ordered_feature_list_preserved": true,
+  "encoded_feature_count": 90,
+  "selected_stopping_iterations": 111,
+  "model_sha256": "86cfc650a2a8ddfde94d64f8b4f123b34aa6dbc99052d99fe821265f00644695",
+  "selection_model_sha256": "c1f1a39701e45e0db526f4fee3faa2312ade4e0ef46fb4f6d1e9abb2d491fba3",
+  "selection_fit_seconds": 6.818722724914551,
+  "final_fit_seconds": 2.4936113357543945
+}

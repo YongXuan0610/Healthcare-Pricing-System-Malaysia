@@ -1,0 +1,11 @@
+comparison,metric,difference,interpretation
+15 minus 25,mae,527.0172322685576,worse
+15 minus 25,rmse,1034.0606239475965,worse
+15 minus 25,r2,-0.021417108730399148,worse
+15 minus 25,median_absolute_error,194.53062696156485,worse
+15 minus 25,rmsle,0.0332702718240756,worse
+15 minus previous production,mae,508.3868699899904,worse
+15 minus previous production,rmse,1235.034215275642,worse
+15 minus previous production,r2,-0.025534606221110145,worse
+15 minus previous production,median_absolute_error,265.9977416414349,worse
+15 minus previous production,rmsle,0.15368845212942173,worse

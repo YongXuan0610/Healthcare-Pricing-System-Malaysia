@@ -1,0 +1,17 @@
+{
+  "component": "nss80_primary_research_model",
+  "catalog_url": "https://microdata.gov.in/NADA/index.php/catalog/290",
+  "reference_id": "DDI-IND-NSO-HSCHealth80R-Jan2025-Dec2025",
+  "survey_period": "January-December 2025",
+  "files": [
+    {"path": "raw/hhscsL1.csv", "bytes": 18490115, "sha256": "8d9b21a44da21a4a76daee4d3e25fa4089366c7050571ab35023c58ae5f3959c"},
+    {"path": "raw/hhscsL2.csv", "bytes": 74495248, "sha256": "6f2e5c77394804032cba6a6a7df46edd2b73573a1d399aead8a1948404028b9e"},
+    {"path": "raw/hhscsL3.csv", "bytes": 375697, "sha256": "86bb93aab93996e8698e2377632eca8365bcb0529745d6dc6eb4350154ebf5ab"},
+    {"path": "raw/hhscsL4.csv", "bytes": 21265608, "sha256": "92776c43c3aa393cc2ce87ed8c603bc42469d05ff3c3b9e7c4a7f1d0ef2170e2"},
+    {"path": "raw/hhscsL5.csv", "bytes": 14869948, "sha256": "7bd67d0af5b11cdfd38bce1a93820f99afb6d56d5d417f2fdc24d3075e87cd5a"},
+    {"path": "raw/hhscsL6.csv", "bytes": 14927252, "sha256": "7459a8b3229c78afe4b8570422c8dad7f418c698a44dcffea7f3a3d275d5c361"},
+    {"path": "raw/hhscsL7.csv", "bytes": 4035627, "sha256": "e67df2b9cdef2133e8a92705232354e03bd28d452cda0ed0b8c0d92e3202bb80"},
+    {"path": "source_metadata.json", "bytes": 6913, "sha256": "f4376576bcd0958c4613ee21e87b21d3f4aa54d8729d695ebaa26823daa44e03"},
+    {"path": "documentation/nss80_health_schedule.pdf", "bytes": 603875, "sha256": "883e2d0f4949c04c54de975f0a8851672cd866899842b907cd2b6a81902323ce"}
+  ]
+}

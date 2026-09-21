@@ -1,0 +1,50 @@
+{
+  "created_utc": "2026-09-10T08:28:27.298068+00:00",
+  "research_question": "Can the NSS 80 model be reduced to 15 intuitive inputs while retaining enough performance to justify a simpler form?",
+  "experimental_only": true,
+  "features": [
+    "age_years",
+    "gender",
+    "chronic_ailment",
+    "pregnant",
+    "communicable_disease",
+    "other_ailment_last_15_days",
+    "number_of_hospitalisations",
+    "length_of_stay_days",
+    "ailment_nature",
+    "hospitalisation_treatment_nature",
+    "medical_institution_type",
+    "ward_type",
+    "place_of_hospitalisation",
+    "surgery",
+    "medicine"
+  ],
+  "parameters": {
+    "loss": "squared_error",
+    "early_stopping": true,
+    "validation_fraction": 0.1,
+    "n_iter_no_change": 25,
+    "random_state": 42,
+    "learning_rate": 0.04,
+    "max_iter": 700,
+    "max_leaf_nodes": 127,
+    "max_depth": 12,
+    "min_samples_leaf": 35,
+    "l2_regularization": 15.0
+  },
+  "outer_split": "Exact saved corrected v4 episode IDs.",
+  "inner_split": "Exact saved full-data-comparison selection and validation episode IDs; people are disjoint.",
+  "stopping": "Explicit grouped validation chooses n_iter; final estimator refits all outer-training rows with early_stopping=False.",
+  "locked_test_policy": "One evaluation after feature set and stopping logic are fixed; no test-driven tuning or selection.",
+  "importance": "Five seeded feature permutations on the same seed-42 sample of 4,000 inner-validation episodes; diagnostic only.",
+  "high_cost": "Empirical locked-test 90th, 95th, and 99th percentiles with >= cutoff, matching the controlled comparison.",
+  "decision_rule": "R2>=.40: promote if MAE/RMSE ratios versus compact25 are <=1.10 and all tail-MAE ratios <=1.15; .39-.40: promote if <=1.05 and <=1.10; .37-.39: more testing if <=1.03 and <=1.08, otherwise keep25; below .37 keep25.",
+  "versions": {
+    "python": "3.11.9",
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "sklearn": "1.9.0",
+    "joblib": "1.5.3"
+  },
+  "threads": 4
+}
