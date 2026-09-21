@@ -218,4 +218,6 @@ This software is for education and research. It is not medical, financial, insur
 
 ## 19. Author / Final Year Project Information
 
-Developed as a Final Year Project on healthcare pricing references and expenditure prediction. Before public release, replace this paragraph with the student's name, programme, institution, supervisor (if appropriate), academic session, and repository licence.
+Name: Loh Yong Xuan
+Programme: Bachelor of Computer Science
+Institution: UTAR Kampar
