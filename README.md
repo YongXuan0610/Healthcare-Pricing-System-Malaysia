@@ -218,6 +218,8 @@ This software is for education and research. It is not medical, financial, insur
 
 ## 19. Author / Final Year Project Information
 
-Name: Loh Yong Xuan
-Programme: Bachelor of Computer Science
-Institution: UTAR Kampar
+**Name:** Loh Yong Xuan  
+**Programme:** Bachelor of Computer Science (Honours)  
+**Institution:** Universiti Tunku Abdul Rahman (UTAR), Kampar Campus  
+**Project:** Healthcare Pricing System for Public and Private Hospitals in Malaysia  
+**Academic Year:** 2026
